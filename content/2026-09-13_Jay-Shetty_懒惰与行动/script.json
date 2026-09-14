@@ -1,0 +1,65 @@
+{
+  "work_id": "LT008",
+  "mode": "script_subtitle_legacy_import_pending_excerpt_review",
+  "verification_status": "中文脚本与来源时间已从本机成品记录导入；英文逐句摘录待补录，复用前须重新核对来源",
+  "canvas": {"width": 1440, "height": 1920, "ratio": "3:4"},
+  "body_font": {"family": "Microsoft YaHei Bold", "size_px": 56, "uniform": true},
+  "pages": [
+    {"page": 1, "total": 8, "subtitle": "懒，不一定是问题", "frame_time": null, "frame_file": "01.png", "lines": [
+      {"source_time": 0, "original_excerpt": "待补录", "text": "你以为自己很懒"},
+      {"source_time": 31, "original_excerpt": "待补录", "text": "也以为自己没有动力"},
+      {"source_time": 80, "original_excerpt": "待补录", "text": "但真正困住你的"},
+      {"source_time": 80, "original_excerpt": "待补录", "text": "可能是过高的期待"},
+      {"source_time": 80, "original_excerpt": "待补录", "text": "不是能力不足"}
+    ]},
+    {"page": 2, "total": 8, "subtitle": "开始，比坚持更难", "frame_time": null, "frame_file": "02.png", "lines": [
+      {"source_time": 114, "original_excerpt": "待补录", "text": "最难的不是把事做完"},
+      {"source_time": 114, "original_excerpt": "待补录", "text": "而是开始的那一秒"},
+      {"source_time": 114, "original_excerpt": "待补录", "text": "大脑会放大启动的阻力"},
+      {"source_time": 150, "original_excerpt": "待补录", "text": "所以别先要求自己坚持"},
+      {"source_time": 150, "original_excerpt": "待补录", "text": "先把第一步缩小"}
+    ]},
+    {"page": 3, "total": 8, "subtitle": "把门槛降到可笑", "frame_time": null, "frame_file": "03.png", "lines": [
+      {"source_time": 56, "original_excerpt": "待补录", "text": "别要求自己运动一小时"},
+      {"source_time": 56, "original_excerpt": "待补录", "text": "先把鞋穿上"},
+      {"source_time": 56, "original_excerpt": "待补录", "text": "别要求自己写完十页"},
+      {"source_time": 56, "original_excerpt": "待补录", "text": "先打开文档"},
+      {"source_time": 150, "original_excerpt": "待补录", "text": "行动，会自己制造动力"}
+    ]},
+    {"page": 4, "total": 8, "subtitle": "自信来自微小兑现", "frame_time": null, "frame_file": "04.png", "lines": [
+      {"source_time": 241, "original_excerpt": "待补录", "text": "自信不是做成一件大事"},
+      {"source_time": 241, "original_excerpt": "待补录", "text": "而是一次次信守小承诺"},
+      {"source_time": 241, "original_excerpt": "待补录", "text": "你答应自己五分钟"},
+      {"source_time": 241, "original_excerpt": "待补录", "text": "然后真的做了"},
+      {"source_time": 241, "original_excerpt": "待补录", "text": "这才是自我信任的来源"}
+    ]},
+    {"page": 5, "total": 8, "subtitle": "别靠意志力，靠仪式感", "frame_time": null, "frame_file": "05.png", "lines": [
+      {"source_time": 313, "original_excerpt": "待补录", "text": "低能量时"},
+      {"source_time": 313, "original_excerpt": "待补录", "text": "意志力最不可靠"},
+      {"source_time": 346, "original_excerpt": "待补录", "text": "环境线索才更稳定"},
+      {"source_time": 377, "original_excerpt": "待补录", "text": "把鞋放在门口"},
+      {"source_time": 399, "original_excerpt": "待补录", "text": "让行动不必每次重新决定"}
+    ]},
+    {"page": 6, "total": 8, "subtitle": "舒服，会偷走你的野心", "frame_time": null, "frame_file": "06.png", "lines": [
+      {"source_time": 467, "original_excerpt": "待补录", "text": "廉价刺激会给你即时快感"},
+      {"source_time": 467, "original_excerpt": "待补录", "text": "刷屏，零食，漫无目的的消遣"},
+      {"source_time": 467, "original_excerpt": "待补录", "text": "它们会让努力显得更难"},
+      {"source_time": 490, "original_excerpt": "待补录", "text": "短暂舒服之后"},
+      {"source_time": 490, "original_excerpt": "待补录", "text": "留下的却是更长的空虚"}
+    ]},
+    {"page": 7, "total": 8, "subtitle": "无聊，是注意力的复位键", "frame_time": null, "frame_file": "07.png", "lines": [
+      {"source_time": 750, "original_excerpt": "待补录", "text": "每天留十分钟无聊"},
+      {"source_time": 750, "original_excerpt": "待补录", "text": "不看屏幕"},
+      {"source_time": 750, "original_excerpt": "待补录", "text": "不填满每个空隙"},
+      {"source_time": 782, "original_excerpt": "待补录", "text": "你的注意力才会回来"},
+      {"source_time": 782, "original_excerpt": "待补录", "text": "创造力才有地方出现"}
+    ]},
+    {"page": 8, "total": 8, "subtitle": "别奖励结果，先奖励出现", "frame_time": null, "frame_file": "08.png", "lines": [
+      {"source_time": 910, "original_excerpt": "待补录", "text": "不要只记住没做好的地方"},
+      {"source_time": 1267, "original_excerpt": "待补录", "text": "每天写下三件做对的小事"},
+      {"source_time": 1267, "original_excerpt": "待补录", "text": "让大脑看见进展"},
+      {"source_time": 1303, "original_excerpt": "待补录", "text": "一致，比完美更重要"},
+      {"source_time": 1327, "original_excerpt": "待补录", "text": "你不需要爆发，只需要出现"}
+    ]}
+  ]
+}

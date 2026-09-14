@@ -1,0 +1,65 @@
+{
+  "work_id": "LT007",
+  "mode": "script_subtitle_legacy_import_pending_excerpt_review",
+  "verification_status": "中文脚本与参考时间已从本机成品记录导入；英文逐句摘录待补录，复用前须重新核对来源",
+  "canvas": {"width": 1440, "height": 1920, "ratio": "3:4"},
+  "body_font": {"family": "Microsoft YaHei Bold", "size_px": 56, "uniform": true},
+  "pages": [
+    {"page": 1, "total": 8, "subtitle": "AI最贵的，是魔法叙事", "frame_time": 135, "frame_file": "01.png", "lines": [
+      {"source_time": 135, "original_excerpt": "待补录", "text": "这场 AI 热潮"},
+      {"source_time": 150, "original_excerpt": "待补录", "text": "从一开始就被包装成魔法"},
+      {"source_time": 165, "original_excerpt": "待补录", "text": "人们谈论它将成为的一切"},
+      {"source_time": 180, "original_excerpt": "待补录", "text": "却很少讨论它现在能做什么"},
+      {"source_time": 195, "original_excerpt": "待补录", "text": "宏大叙事先于真实能力"}
+    ]},
+    {"page": 2, "total": 8, "subtitle": "低价体验，隐藏真实成本", "frame_time": 700, "frame_file": "02.png", "lines": [
+      {"source_time": 700, "original_excerpt": "待补录", "text": "每一次生成答案"},
+      {"source_time": 715, "original_excerpt": "待补录", "text": "背后都有算力与能源成本"},
+      {"source_time": 730, "original_excerpt": "待补录", "text": "用户看到的是低价订阅"},
+      {"source_time": 745, "original_excerpt": "待补录", "text": "不是完整的真实账单"},
+      {"source_time": 760, "original_excerpt": "待补录", "text": "便宜体验可能来自补贴"}
+    ]},
+    {"page": 3, "total": 8, "subtitle": "收入增长，不等于AI回本", "frame_time": 1029, "frame_file": "03.png", "lines": [
+      {"source_time": 1029, "original_excerpt": "待补录", "text": "科技公司的收入在增长"},
+      {"source_time": 1045, "original_excerpt": "待补录", "text": "不等于 AI 投资已经回本"},
+      {"source_time": 1061, "original_excerpt": "待补录", "text": "旧业务涨价也能推高营收"},
+      {"source_time": 1077, "original_excerpt": "待补录", "text": "市场却会把增长归功于 AI"},
+      {"source_time": 1093, "original_excerpt": "待补录", "text": "热度因此继续自我强化"}
+    ]},
+    {"page": 4, "total": 8, "subtitle": "模型越强，账单可能越大", "frame_time": 1103, "frame_file": "04.png", "lines": [
+      {"source_time": 1103, "original_excerpt": "待补录", "text": "模型训练需要巨额资本"},
+      {"source_time": 1119, "original_excerpt": "待补录", "text": "推理也要持续消耗资源"},
+      {"source_time": 1135, "original_excerpt": "待补录", "text": "能力提升越来越昂贵"},
+      {"source_time": 1151, "original_excerpt": "待补录", "text": "回报却没有同步清晰"},
+      {"source_time": 1167, "original_excerpt": "待补录", "text": "这才是泡沫争议的核心"}
+    ]},
+    {"page": 5, "total": 8, "subtitle": "泡沫，不代表技术毫无价值", "frame_time": 2535, "frame_file": "05.png", "lines": [
+      {"source_time": 2535, "original_excerpt": "待补录", "text": "泡沫不代表技术毫无价值"},
+      {"source_time": 2551, "original_excerpt": "待补录", "text": "互联网泡沫也留下真正的公司"},
+      {"source_time": 2567, "original_excerpt": "待补录", "text": "问题不是 AI 有没有用"},
+      {"source_time": 2583, "original_excerpt": "待补录", "text": "而是价值是否配得上投入"},
+      {"source_time": 2599, "original_excerpt": "待补录", "text": "需求能否最终脱离补贴"}
+    ]},
+    {"page": 6, "total": 8, "subtitle": "被补贴的使用，不等于需求", "frame_time": 2735, "frame_file": "06.png", "lines": [
+      {"source_time": 2735, "original_excerpt": "待补录", "text": "很多人正在使用 AI"},
+      {"source_time": 2751, "original_excerpt": "待补录", "text": "但未必愿意支付真实成本"},
+      {"source_time": 2767, "original_excerpt": "待补录", "text": "被补贴的使用量"},
+      {"source_time": 2783, "original_excerpt": "待补录", "text": "不能直接等于市场需求"},
+      {"source_time": 2799, "original_excerpt": "待补录", "text": "免费和必要是两回事"}
+    ]},
+    {"page": 7, "total": 8, "subtitle": "AI会取代所有工作，是恐惧叙事", "frame_time": 4776, "frame_file": "07.png", "lines": [
+      {"source_time": 4776, "original_excerpt": "待补录", "text": "AI 会取代所有工作"},
+      {"source_time": 4796, "original_excerpt": "待补录", "text": "是最容易传播的恐惧"},
+      {"source_time": 4816, "original_excerpt": "待补录", "text": "它可能替代部分任务"},
+      {"source_time": 4836, "original_excerpt": "待补录", "text": "却不等于消灭多数职业"},
+      {"source_time": 4856, "original_excerpt": "待补录", "text": "工作比单项输出复杂得多"}
+    ]},
+    {"page": 8, "total": 8, "subtitle": "怀疑AI，不等于反对科技", "frame_time": 6884, "frame_file": "08.png", "lines": [
+      {"source_time": 6884, "original_excerpt": "待补录", "text": "质疑 AI 不等于反对科技"},
+      {"source_time": 6904, "original_excerpt": "待补录", "text": "花钱的人也应该接受追问"},
+      {"source_time": 6924, "original_excerpt": "待补录", "text": "承诺越宏大"},
+      {"source_time": 6944, "original_excerpt": "待补录", "text": "越需要公开成本与回报"},
+      {"source_time": 6964, "original_excerpt": "待补录", "text": "真正的创新经得起核算"}
+    ]}
+  ]
+}
