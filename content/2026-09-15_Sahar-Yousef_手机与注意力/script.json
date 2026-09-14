@@ -1,126 +1,95 @@
 {
   "work_id": "LT009",
-  "mode": "script_subtitle_translated",
+  "mode": "script_subtitle_evidence_locked_adaptation",
+  "translation_policy": "来源锁定的中文凝练：每条中文必须能由原视频的一句或相邻连续语义直接支持；允许删除口头语、合并相邻表达和调整中文语序；禁止增加新观点、新因果、联想或编辑总结",
   "canvas": {"width": 1440, "height": 1920, "ratio": "3:4"},
   "body_font": {"family": "Microsoft YaHei Bold", "size_px": 56, "uniform": true},
   "pages": [
     {
-      "page": 1,
-      "total": 8,
-      "subtitle": "它不响，也在打扰",
-      "frame_time": null,
-      "frame_target_range": "51:40-53:10",
-      "frame_file": "01.png",
+      "page": 1, "total": 8, "subtitle": "问题从数字卫生开始",
+      "frame_time": null, "frame_target_range": "51:40-53:10", "frame_file": "01.png",
       "lines": [
-        {"source_time": 3100, "text": "你以为手机只要不响"},
-        {"source_time": 3100, "text": "就不会打断正在做的事"},
-        {"source_time": 3336, "text": "但真正消耗注意力的"},
-        {"source_time": 3336, "text": "可能只是它出现在视线里"}
+        {"source_time": 3100, "original_excerpt": "a bad relationship with your digital tools", "text": "数字卫生差，意味着你和数字工具关系失调"},
+        {"source_time": 3100, "original_excerpt": "specifically your notifications", "text": "其中最常见的问题就是通知"},
+        {"source_time": 3100, "original_excerpt": "You sit down to focus", "text": "当你坐下来专注工作"},
+        {"source_time": 3100, "original_excerpt": "Where is your phone", "text": "先问问你的手机放在哪里"}
       ]
     },
     {
-      "page": 2,
-      "total": 8,
-      "subtitle": "研究只改变一个条件",
-      "frame_time": null,
-      "frame_target_range": "53:41-55:08",
-      "frame_file": "02.png",
+      "page": 2, "total": 8, "subtitle": "实验只改变手机的位置",
+      "frame_time": null, "frame_target_range": "53:41-55:08", "frame_file": "02.png",
       "lines": [
-        {"source_time": 3138, "text": "研究让参与者完成同一组测试"},
-        {"source_time": 3221, "text": "手机全程关机，没有任何通知"},
-        {"source_time": 3221, "text": "有时放在另一个房间"},
-        {"source_time": 3261, "text": "有时装进口袋或包里"},
-        {"source_time": 3284, "text": "有时就扣在桌面上"}
+        {"source_time": 3221, "original_excerpt": "turn your phone completely off", "text": "先把手机彻底关机"},
+        {"source_time": 3221, "original_excerpt": "in another room", "text": "第一种情况，手机放在另一个房间"},
+        {"source_time": 3261, "original_excerpt": "in your pocket or a bag", "text": "第二种情况，手机放进口袋或包里"},
+        {"source_time": 3284, "original_excerpt": "put your phone face down", "text": "第三种情况，手机反扣在桌上"},
+        {"source_time": 3284, "original_excerpt": "doing all of these assessments", "text": "然后完成同样的一组测试"}
       ]
     },
     {
-      "page": 3,
-      "total": 8,
-      "subtitle": "看见它，能力就会下降",
-      "frame_time": null,
-      "frame_target_range": "55:30-56:20",
-      "frame_file": "03.png",
+      "page": 3, "total": 8, "subtitle": "看见手机，成绩就下降",
+      "frame_time": null, "frame_target_range": "55:30-56:20", "frame_file": "03.png",
       "lines": [
-        {"source_time": 3336, "text": "当手机出现在视野中"},
-        {"source_time": 3336, "text": "注意力测试成绩明显降低"},
-        {"source_time": 3198, "text": "工作记忆也受到影响"},
-        {"source_time": 3336, "text": "人还是同一个人"},
-        {"source_time": 3336, "text": "可调用的认知能力却变少了"}
+        {"source_time": 3308, "original_excerpt": "the phone is dead", "text": "三种情况里，手机都处于关机状态"},
+        {"source_time": 3308, "original_excerpt": "You're not using it", "text": "参与者也都没有使用手机"},
+        {"source_time": 3336, "original_excerpt": "the phone was visible", "text": "但当手机出现在视野中"},
+        {"source_time": 3336, "original_excerpt": "scores were significantly decreased", "text": "各项测试得分都显著下降"},
+        {"source_time": 3336, "original_excerpt": "attention ... general fluid intelligence", "text": "注意力和一般流体智力都受到了影响"}
       ]
     },
     {
-      "page": 4,
-      "total": 8,
-      "subtitle": "手机装着太多心理线索",
-      "frame_time": null,
-      "frame_target_range": "56:08-57:29",
-      "frame_file": "04.png",
+      "page": 4, "total": 8, "subtitle": "大脑知道手机里有什么",
+      "frame_time": null, "frame_target_range": "56:08-57:29", "frame_file": "04.png",
       "lines": [
-        {"source_time": 3368, "text": "你的大脑知道手机里有什么"},
-        {"source_time": 3368, "text": "消息、社交、好消息和坏消息"},
-        {"source_time": 3410, "text": "即使屏幕没有亮起"},
-        {"source_time": 3410, "text": "大脑也在等待下一次刺激"},
-        {"source_time": 3410, "text": "一部分注意力因此被提前占用"}
+        {"source_time": 3410, "original_excerpt": "Everything is in the phone. Memories", "text": "手机里装着你的许多记忆"},
+        {"source_time": 3368, "original_excerpt": "friends, making plans, good news, bad news", "text": "朋友、计划、好消息和坏消息都在里面"},
+        {"source_time": 3410, "original_excerpt": "Your brain knows that", "text": "你的大脑知道这一切"},
+        {"source_time": 3410, "original_excerpt": "if you can see it", "text": "所以只要看见手机，大脑就会想到那些内容"},
+        {"source_time": 3410, "original_excerpt": "hide your phone ... out of sight", "text": "把手机藏起来，让它离开视线"}
       ]
     },
     {
-      "page": 5,
-      "total": 8,
-      "subtitle": "多任务只是注意力切换",
-      "frame_time": null,
-      "frame_target_range": "67:40-71:50",
-      "frame_file": "05.png",
+      "page": 5, "total": 8, "subtitle": "多任务并不是同时处理",
+      "frame_time": null, "frame_target_range": "67:40-71:50", "frame_file": "05.png",
       "lines": [
-        {"source_time": 4060, "text": "我们以为自己在同时做很多事"},
-        {"source_time": 4097, "text": "其实只有一套注意系统"},
-        {"source_time": 4298, "text": "所谓多任务"},
-        {"source_time": 4298, "text": "只是大脑在任务之间反复切换"},
-        {"source_time": 4097, "text": "你没有两个完整的百分之百"}
+        {"source_time": 4060, "original_excerpt": "doing two different things ... same time", "text": "人们以为多任务是同时做两件事"},
+        {"source_time": 4097, "original_excerpt": "How many brains do you have? One", "text": "但你只有一个大脑"},
+        {"source_time": 4097, "original_excerpt": "how many attention systems", "text": "也只有一套注意系统"},
+        {"source_time": 4097, "original_excerpt": "You don't have two 100s", "text": "你没有两个完整的百分之百"},
+        {"source_time": 4129, "original_excerpt": "you're splitting your attention", "text": "无论怎么分配，注意力都被拆开了"}
       ]
     },
     {
-      "page": 6,
-      "total": 8,
-      "subtitle": "每次切换都要付费",
-      "frame_time": null,
-      "frame_target_range": "71:38-72:40",
-      "frame_file": "06.png",
+      "page": 6, "total": 8, "subtitle": "真正发生的是任务切换",
+      "frame_time": null, "frame_target_range": "71:38-72:40", "frame_file": "06.png",
       "lines": [
-        {"source_time": 4298, "text": "从文档切到消息"},
-        {"source_time": 4298, "text": "再从消息切回工作"},
-        {"source_time": 3830, "text": "每一次切换都不是免费的"},
-        {"source_time": 4334, "text": "它会消耗额外时间"},
-        {"source_time": 4334, "text": "也会更快耗尽你的精力"}
+        {"source_time": 4298, "original_excerpt": "something called task switching", "text": "真正发生的事情叫作任务切换"},
+        {"source_time": 4298, "original_excerpt": "from A to B, B to C", "text": "注意力从A切到B，再从B切到C"},
+        {"source_time": 4298, "original_excerpt": "a biological payment", "text": "每一次切换都有生理代价"},
+        {"source_time": 4334, "original_excerpt": "pays for it in time", "text": "大脑会用时间支付"},
+        {"source_time": 4334, "original_excerpt": "the second thing ... is energy", "text": "还会用精力支付"}
       ]
     },
     {
-      "page": 7,
-      "total": 8,
-      "subtitle": "效率下降，错误增加",
-      "frame_time": null,
-      "frame_target_range": "65:15-67:40",
-      "frame_file": "07.png",
+      "page": 7, "total": 8, "subtitle": "切换让时间翻了一倍",
+      "frame_time": null, "frame_target_range": "65:15-67:40", "frame_file": "07.png",
       "lines": [
-        {"source_time": 3926, "text": "实验里先连续完成两个任务"},
-        {"source_time": 3926, "text": "只用了十七点七二秒"},
-        {"source_time": 4030, "text": "改成来回切换后"},
-        {"source_time": 4030, "text": "时间增加到四十一点三五秒"},
-        {"source_time": 4030, "text": "错误也明显变多"}
+        {"source_time": 3926, "original_excerpt": "17.72", "text": "第一次完成任务用了十七点七二秒"},
+        {"source_time": 3982, "original_excerpt": "you have to still alternate", "text": "第二次必须在两项任务间来回交替"},
+        {"source_time": 4030, "original_excerpt": "41.35", "text": "最后用时变成四十一点三五秒"},
+        {"source_time": 4030, "original_excerpt": "More than double", "text": "时间增加到了两倍以上"},
+        {"source_time": 4030, "original_excerpt": "A lot", "text": "而且过程中还犯了很多错误"}
       ]
     },
     {
-      "page": 8,
-      "total": 8,
-      "subtitle": "专注首先是环境设计",
-      "frame_time": null,
-      "frame_target_range": "72:14-77:20",
-      "frame_file": "08.png",
+      "page": 8, "total": 8, "subtitle": "重要工作要移走干扰",
+      "frame_time": null, "frame_target_range": "72:14-77:20", "frame_file": "08.png",
       "lines": [
-        {"source_time": 3449, "text": "真正重要的工作开始前"},
-        {"source_time": 3449, "text": "把手机移出视线"},
-        {"source_time": 4334, "text": "关掉通知和无关页面"},
-        {"source_time": 4334, "text": "一次只保留眼前这一件事"},
-        {"source_time": 4634, "text": "保护注意力，就是保护行动能力"}
+        {"source_time": 4334, "original_excerpt": "when you're doing something hard", "text": "当你在做真正困难的事情"},
+        {"source_time": 4334, "original_excerpt": "distractions out of sight", "text": "请让所有干扰离开视线"},
+        {"source_time": 4334, "original_excerpt": "notifications off", "text": "关掉通知"},
+        {"source_time": 4334, "original_excerpt": "no email open, no phone next to you", "text": "别开着邮箱，也别把手机放在身边"},
+        {"source_time": 4334, "original_excerpt": "focus on the thing in front of you", "text": "真正专注于眼前这一件事"}
       ]
     }
   ]
