@@ -1,0 +1,127 @@
+{
+  "work_id": "LT010",
+  "mode": "script_subtitle_translated",
+  "canvas": {"width": 1440, "height": 1920, "ratio": "3:4"},
+  "body_font": {"family": "Microsoft YaHei Bold", "size_px": 56, "uniform": true},
+  "pages": [
+    {
+      "page": 1,
+      "total": 8,
+      "subtitle": "你想要的，也许不是结果",
+      "frame_time": null,
+      "frame_target_range": "43:26-44:05",
+      "frame_file": "01.png",
+      "lines": [
+        {"source_time": 2606, "text": "你以为自己想要一段关系"},
+        {"source_time": 2606, "text": "或更多的钱与成就"},
+        {"source_time": 2606, "text": "但你真正追逐的"},
+        {"source_time": 2606, "text": "往往是它会带来的感受"}
+      ]
+    },
+    {
+      "page": 2,
+      "total": 8,
+      "subtitle": "先问：它让我感觉怎样",
+      "frame_time": null,
+      "frame_target_range": "43:35-44:26",
+      "frame_file": "02.png",
+      "lines": [
+        {"source_time": 2606, "text": "关系背后可能是被爱"},
+        {"source_time": 2606, "text": "也可能是安全与支持"},
+        {"source_time": 2606, "text": "财富背后可能是自由"},
+        {"source_time": 2606, "text": "也可能是稳定与选择权"},
+        {"source_time": 2606, "text": "先把这些感受写下来"}
+      ]
+    },
+    {
+      "page": 3,
+      "total": 8,
+      "subtitle": "说不清目标也没关系",
+      "frame_time": null,
+      "frame_target_range": "44:05-44:35",
+      "frame_file": "03.png",
+      "lines": [
+        {"source_time": 2606, "text": "你可能说不清具体目标"},
+        {"source_time": 2606, "text": "但仍然可以辨认想要的感受"},
+        {"source_time": 2666, "text": "因为很多时候"},
+        {"source_time": 2666, "text": "我们误把载体当成了答案"},
+        {"source_time": 2666, "text": "却没有看见真正的需求"}
+      ]
+    },
+    {
+      "page": 4,
+      "total": 8,
+      "subtitle": "再看见已经拥有的证据",
+      "frame_time": null,
+      "frame_target_range": "44:26-45:38",
+      "frame_file": "04.png",
+      "lines": [
+        {"source_time": 2666, "text": "列出你现在已经拥有的证据"},
+        {"source_time": 2711, "text": "哪些经历让你感到被爱"},
+        {"source_time": 2711, "text": "哪些行动证明你有能力"},
+        {"source_time": 2711, "text": "哪些成果值得你感到骄傲"},
+        {"source_time": 2711, "text": "别让大脑忽略已经发生的成长"}
+      ]
+    },
+    {
+      "page": 5,
+      "total": 8,
+      "subtitle": "目标不是自我否定的证据",
+      "frame_time": null,
+      "frame_target_range": "44:26-45:38",
+      "frame_file": "05.png",
+      "lines": [
+        {"source_time": 2666, "text": "她想拥有一百万粉丝"},
+        {"source_time": 2666, "text": "后来发现真正想要的是"},
+        {"source_time": 2666, "text": "正式感和成就感"},
+        {"source_time": 2711, "text": "但她已经在经营事业"},
+        {"source_time": 2711, "text": "也已经在帮助许多人"}
+      ]
+    },
+    {
+      "page": 6,
+      "total": 8,
+      "subtitle": "今天就创造那种感受",
+      "frame_time": null,
+      "frame_target_range": "45:48-46:35",
+      "frame_file": "06.png",
+      "lines": [
+        {"source_time": 2748, "text": "再列一张你能控制的行动清单"},
+        {"source_time": 2748, "text": "想感到有成就"},
+        {"source_time": 2748, "text": "就完成一次训练"},
+        {"source_time": 2766, "text": "或写下几页正在创作的书"},
+        {"source_time": 2766, "text": "让行动先生成那种感受"}
+      ]
+    },
+    {
+      "page": 7,
+      "total": 8,
+      "subtitle": "感受改变，行动也会改变",
+      "frame_time": null,
+      "frame_target_range": "46:06-47:25",
+      "frame_file": "07.png",
+      "lines": [
+        {"source_time": 2766, "text": "别把满足一直推迟到未来"},
+        {"source_time": 2766, "text": "你会从不同的状态开始创造"},
+        {"source_time": 2766, "text": "这不是假装目标已经实现"},
+        {"source_time": 2766, "text": "而是先成为能持续行动的人"},
+        {"source_time": 2766, "text": "再向真正想要的方向靠近"}
+      ]
+    },
+    {
+      "page": 8,
+      "total": 8,
+      "subtitle": "显化不是停止努力",
+      "frame_time": null,
+      "frame_target_range": "47:00-47:39",
+      "frame_file": "08.png",
+      "lines": [
+        {"source_time": 2766, "text": "你仍然要为目标工作"},
+        {"source_time": 2766, "text": "只是不用再被结果绑架"},
+        {"source_time": 2766, "text": "识别感受"},
+        {"source_time": 2766, "text": "看见已有，再做可控的行动"},
+        {"source_time": 2766, "text": "这才是显化真正落地的部分"}
+      ]
+    }
+  ]
+}
