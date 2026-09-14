@@ -1,0 +1,35 @@
+# 大型视频与未完成下载
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.avi
+*.part
+
+# 日常输出与临时截图
+output/
+downloads/
+screenshots/
+temp/
+tmp/
+cache/
+
+# Python / Node 缓存
+__pycache__/
+*.pyc
+node_modules/
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 本地私密配置
+.env
+.env.*
+*.cookie
+cookies.txt
+
+# 可从 GitHub 重新获取的安装压缩包
+tools/youtube-screenshot-extension-main.zip
