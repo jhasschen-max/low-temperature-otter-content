@@ -1,0 +1,106 @@
+{
+  "package": "2026-09-15_Jensen-Huang_创业与支撑",
+  "page_count": 8,
+  "all_body_fonts_equal": true,
+  "all_dimensions_correct": true,
+  "all_lines_within_limit": true,
+  "all_text_within_canvas": true,
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:21:14.44"
+    },
+    {
+      "page": 2,
+      "file": "02.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:20:37.71"
+    },
+    {
+      "page": 3,
+      "file": "03.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:20:36.03"
+    },
+    {
+      "page": 4,
+      "file": "04.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:21:01.74"
+    },
+    {
+      "page": 5,
+      "file": "05.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:21:34.64"
+    },
+    {
+      "page": 6,
+      "file": "06.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 3,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:21:49.51"
+    },
+    {
+      "page": 7,
+      "file": "07.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:22:07.50"
+    },
+    {
+      "page": 8,
+      "file": "08.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "01:22:27.75"
+    }
+  ]
+}

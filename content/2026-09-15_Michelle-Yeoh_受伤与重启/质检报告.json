@@ -1,0 +1,106 @@
+{
+  "package": "2026-09-15_Michelle-Yeoh_受伤与重启",
+  "page_count": 8,
+  "all_body_fonts_equal": true,
+  "all_dimensions_correct": true,
+  "all_lines_within_limit": true,
+  "all_text_within_canvas": true,
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:42:22.61"
+    },
+    {
+      "page": 2,
+      "file": "02.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:42:42.52"
+    },
+    {
+      "page": 3,
+      "file": "03.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:43:02.63"
+    },
+    {
+      "page": 4,
+      "file": "04.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:43:21.67"
+    },
+    {
+      "page": 5,
+      "file": "05.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:44:09.47"
+    },
+    {
+      "page": 6,
+      "file": "06.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:45:41.71"
+    },
+    {
+      "page": 7,
+      "file": "07.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 4,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:46:26.60"
+    },
+    {
+      "page": 8,
+      "file": "08.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:47:07.57"
+    }
+  ]
+}

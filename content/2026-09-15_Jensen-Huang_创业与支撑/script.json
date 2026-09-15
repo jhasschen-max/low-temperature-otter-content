@@ -1,0 +1,133 @@
+{
+  "work_id": "LT025",
+  "person": "黄仁勋 Jensen Huang",
+  "title": "如果重来一次，黄仁勋不会再创办英伟达",
+  "source_url": "https://www.youtube.com/watch?v=y6NfxiemvHg",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "原始截图为可重取临时缓存；发布包保留成品图、取帧时间和来源时间，不保留临时帧",
+  "permission": "用户已确认拥有下载、翻译、处理和发布权限",
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "如果重来，他不会再开始",
+      "frame": "frames/01.png",
+      "frame_time": "01:21:14.44",
+      "focus_x": 0.47,
+      "source_time": "01:19:56.67-01:20:08.39",
+      "lines": ["如果你重新回到三十岁", "再和两个最聪明的朋友", "坐在丹尼餐厅谈创办公司", "你还会再做一次吗", "我不会"],
+      "line_sources": [
+        {"source_time": "01:19:56.67", "original_excerpt": "If you woke up 30 years old again today"},
+        {"source_time": "01:19:59.31", "original_excerpt": "with your two brilliant friends"},
+        {"source_time": "01:20:04.47", "original_excerpt": "you were going to start a company"},
+        {"source_time": "01:19:56.67-01:20:08.39", "original_excerpt": "would you do it again?"},
+        {"source_time": "01:20:08.39", "original_excerpt": "I wouldn't do it"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "比想象中难一百万倍",
+      "frame": "frames/02.png",
+      "frame_time": "01:20:37.71",
+      "focus_x": 0.46,
+      "source_time": "01:20:11.59-01:20:31.39",
+      "lines": ["原因其实很简单", "创办并建设英伟达", "比我预想中难了一百万倍", "也超出了我们所有人的想象"],
+      "line_sources": [
+        {"source_time": "01:20:11.59", "original_excerpt": "The reason for that is really quite simple"},
+        {"source_time": "01:20:23.99", "original_excerpt": "building a company and building NVIDIA"},
+        {"source_time": "01:20:26.39", "original_excerpt": "turned out to be a million times harder than I expected"},
+        {"source_time": "01:20:28.11-01:20:31.39", "original_excerpt": "than any of us expected"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "没人提前知道代价",
+      "frame": "frames/03.png",
+      "frame_time": "01:20:36.03",
+      "focus_x": 0.46,
+      "source_time": "01:20:33.43-01:20:39.11",
+      "lines": ["如果当时知道会经历什么", "那些痛苦和煎熬", "那种脆弱无助的感觉", "还有必须承受的挑战"],
+      "line_sources": [
+        {"source_time": "01:20:33.43", "original_excerpt": "had we realized the pain and suffering"},
+        {"source_time": "01:20:33.43", "original_excerpt": "the pain and suffering"},
+        {"source_time": "01:20:35.99", "original_excerpt": "how vulnerable you are"},
+        {"source_time": "01:20:39.11", "original_excerpt": "the challenges that you have to endure"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "难的不只是失败",
+      "frame": "frames/04.png",
+      "frame_time": "01:21:01.74",
+      "focus_x": 0.46,
+      "source_time": "01:20:42.07-01:20:50.51",
+      "lines": ["还有难堪与羞耻", "以及所有可能出错的事情", "我想任何理智的人", "都不会开始创办公司"],
+      "line_sources": [
+        {"source_time": "01:20:42.07-01:20:43.95", "original_excerpt": "the embarrassment and the shame"},
+        {"source_time": "01:20:46.51", "original_excerpt": "the list of all the things that go wrong"},
+        {"source_time": "01:20:48.35", "original_excerpt": "I don't think anybody would start a company"},
+        {"source_time": "01:20:50.51", "original_excerpt": "Nobody in their right mind would do it"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "无知有时也是超能力",
+      "frame": "frames/05.png",
+      "frame_time": "01:21:34.64",
+      "focus_x": 0.46,
+      "source_time": "01:20:52.75-01:21:02.11",
+      "lines": ["创业者的超能力", "是不知道这件事有多难", "他们只会问自己", "这能有多难"],
+      "line_sources": [
+        {"source_time": "01:20:52.75", "original_excerpt": "the superpower of an entrepreneur"},
+        {"source_time": "01:20:56.27-01:20:59.03", "original_excerpt": "they don't know how hard it is"},
+        {"source_time": "01:21:02.11", "original_excerpt": "they only ask themselves"},
+        {"source_time": "01:21:02.11", "original_excerpt": "how hard can it be"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "我每天仍这样骗过大脑",
+      "frame": "frames/06.png",
+      "frame_time": "01:21:49.51",
+      "focus_x": 0.46,
+      "source_time": "01:21:05.47-01:21:11.91",
+      "lines": ["直到今天", "我还会让自己相信", "这能有多难"],
+      "line_sources": [
+        {"source_time": "01:21:05.47", "original_excerpt": "to this day I trick my brain"},
+        {"source_time": "01:21:07.99", "original_excerpt": "I still think how hard can it be"},
+        {"source_time": "01:21:11.91", "original_excerpt": "Every morning, how hard can it be"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "知道得越多，越难重来",
+      "frame": "frames/07.png",
+      "frame_time": "01:22:07.50",
+      "focus_x": 0.46,
+      "source_time": "01:21:44.87-01:21:52.07",
+      "lines": ["如果带着今天所有认知回去", "再说我要重走整段旅程", "我想那太难了", "真的太难了"],
+      "line_sources": [
+        {"source_time": "01:21:44.87", "original_excerpt": "with all the knowledge I have today"},
+        {"source_time": "01:21:47.67", "original_excerpt": "I'm going to endure that whole journey again"},
+        {"source_time": "01:21:52.07", "original_excerpt": "I think that's too much"},
+        {"source_time": "01:21:52.07", "original_excerpt": "It is just too much"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "真正撑住他的，是人",
+      "frame": "frames/08.png",
+      "frame_time": "01:22:27.75",
+      "focus_x": 0.46,
+      "source_time": "01:22:00.95-01:22:46.91",
+      "lines": ["支撑我的是家人、朋友和同事", "有些人陪伴公司三十年", "他们从未放弃", "也从未放弃我", "你需要身边人坚定不移的支持"],
+      "line_sources": [
+        {"source_time": "01:22:00.95", "original_excerpt": "you have the support of family and friends and colleagues"},
+        {"source_time": "01:22:04.83", "original_excerpt": "people here at NVIDIA 30 years"},
+        {"source_time": "01:22:23.67", "original_excerpt": "people never gave up"},
+        {"source_time": "01:22:25.71", "original_excerpt": "they never gave up on me"},
+        {"source_time": "01:22:38.23-01:22:46.91", "original_excerpt": "unwavering support ... thick and thin"}
+      ]
+    }
+  ]
+}

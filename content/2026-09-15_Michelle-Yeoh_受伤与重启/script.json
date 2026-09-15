@@ -1,0 +1,133 @@
+{
+  "work_id": "LT023",
+  "person": "杨紫琼 Michelle Yeoh",
+  "title": "杨紫琼：让我差点退圈的，不是最危险的那场戏",
+  "source_url": "https://www.youtube.com/watch?v=4cuHmio86uw",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "原始截图为可重取临时缓存；发布包保留成品图、取帧时间和来源时间，不保留临时帧",
+  "permission": "用户已确认拥有下载、翻译、处理和发布权限",
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "真正的大动作，反而没出事",
+      "frame": "frames/01.png",
+      "frame_time": "00:42:22.61",
+      "focus_x": 0.38,
+      "source_time": "00:42:15.67-00:42:32.15",
+      "lines": ["那场戏真正的大动作", "是从天桥上跳下去", "落到一辆行驶中的卡车上", "三十英尺的坠落，有钢丝保护"],
+      "line_sources": [
+        {"source_time": "00:42:15.67", "original_excerpt": "The big stunt was jumping off the flyover."},
+        {"source_time": "00:42:15.67-00:42:25.43", "original_excerpt": "jumping off the flyover ... lands on a moving truck"},
+        {"source_time": "00:42:25.43", "original_excerpt": "lands on a moving truck"},
+        {"source_time": "00:42:27.67-00:42:32.15", "original_excerpt": "a 30-foot fall ... on wires, everything was good"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "出事的，只是一个特写",
+      "frame": "frames/02.png",
+      "frame_time": "00:42:42.52",
+      "focus_x": 0.38,
+      "source_time": "00:42:32.63-00:42:46.07",
+      "lines": ["接下来只需要补一个特写", "高度大约十五英尺", "我只要被推得跌出画面", "那甚至不算真正的特技动作"],
+      "line_sources": [
+        {"source_time": "00:42:32.63", "original_excerpt": "and then it came to the close-up"},
+        {"source_time": "00:42:39.03", "original_excerpt": "about 15 feet"},
+        {"source_time": "00:42:46.07", "original_excerpt": "he pushes me and I fall off frame"},
+        {"source_time": "00:42:43.11", "original_excerpt": "it wasn't about the stunt"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "我还在想着怎么演",
+      "frame": "frames/03.png",
+      "frame_time": "00:43:02.63",
+      "focus_x": 0.38,
+      "source_time": "00:42:50.95-00:43:04.15",
+      "lines": ["因为机位在下方", "我实际掉落得更远", "被推下去时，我还在想着表演", "所以我翻滚了，而不是翻转身体"],
+      "line_sources": [
+        {"source_time": "00:42:50.95", "original_excerpt": "the camera is from below"},
+        {"source_time": "00:42:50.95", "original_excerpt": "so it's a longer way to go"},
+        {"source_time": "00:42:57.75", "original_excerpt": "I was still trying to act"},
+        {"source_time": "00:42:57.75-00:43:04.15", "original_excerpt": "I tumbled ... I should have flipped"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "没有气垫，只有纸箱",
+      "frame": "frames/04.png",
+      "frame_time": "00:43:21.67",
+      "focus_x": 0.38,
+      "source_time": "00:43:09.11-00:43:38.15",
+      "lines": ["我头朝下撞了下去", "那里没有气垫", "只有纸箱和几张床垫", "双腿从背后砸向头顶"],
+      "line_sources": [
+        {"source_time": "00:43:09.11", "original_excerpt": "I landed head first"},
+        {"source_time": "00:43:12.51", "original_excerpt": "there were no airbags"},
+        {"source_time": "00:43:17.03", "original_excerpt": "cardboard boxes and mattresses"},
+        {"source_time": "00:43:32.55-00:43:38.15", "original_excerpt": "my legs are behind me ... hit the top of my head"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "所有人都以为，完了",
+      "frame": "frames/05.png",
+      "frame_time": "00:44:09.47",
+      "focus_x": 0.38,
+      "source_time": "00:44:05.11-00:44:43.00",
+      "lines": ["我的全身像着了火", "导演站在那里，眼泪直流", "所有人都以为事情到此为止", "后来我穿了好几个月的全身石膏"],
+      "line_sources": [
+        {"source_time": "00:44:05.11", "original_excerpt": "your whole body is on fire"},
+        {"source_time": "00:44:12.23", "original_excerpt": "the director ... tears streaming down"},
+        {"source_time": "00:44:33.67", "original_excerpt": "everyone thought this is it"},
+        {"source_time": "00:44:35.04-00:44:43.00", "original_excerpt": "a full body cast ... quite a few months"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "她第一次想离开电影",
+      "frame": "frames/06.png",
+      "frame_time": "00:45:41.71",
+      "focus_x": 0.40,
+      "source_time": "00:45:05.83-00:45:42.23",
+      "lines": ["朋友们冲进病房问我", "你为什么一定要这样做", "你现在连自己都照顾不了", "她们说得对，我也许该离开电影"],
+      "line_sources": [
+        {"source_time": "00:45:05.83", "original_excerpt": "my girlfriends came into the hospital"},
+        {"source_time": "00:45:13.35", "original_excerpt": "why are you doing this, why do you need this"},
+        {"source_time": "00:45:17.35", "original_excerpt": "you can't help yourself"},
+        {"source_time": "00:45:28.23-00:45:42.23", "original_excerpt": "they were right ... maybe steer away from movies"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "他只请求五分钟",
+      "frame": "frames/07.png",
+      "frame_time": "00:46:26.60",
+      "focus_x": 0.38,
+      "source_time": "00:45:47.91-00:46:39.11",
+      "lines": ["那段时间很压抑", "我连胳膊和腿都抬不起来", "昆汀·塔伦蒂诺坚持要来看我", "他说，只给我五分钟"],
+      "line_sources": [
+        {"source_time": "00:45:47.91", "original_excerpt": "being in the hospital ... was depressing"},
+        {"source_time": "00:45:54.55", "original_excerpt": "you can't lift your arm or lift your leg"},
+        {"source_time": "00:46:03.76-00:46:14.24", "original_excerpt": "Quentin Tarantino ... relentless ... came to Hong Kong"},
+        {"source_time": "00:46:34.16-00:46:39.11", "original_excerpt": "just give me five minutes, I just want to say hello"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "他让我想起为什么开始",
+      "frame": "frames/08.png",
+      "frame_time": "00:47:07.57",
+      "focus_x": 0.38,
+      "source_time": "00:47:04.63-00:48:00.71",
+      "lines": ["他逐帧讲起我做过的动作", "让我重新想起为什么热爱电影", "那是一种热情，不只是一份工作", "后来我明白，这些都不是失败", "它们让我更坚韧，也更聪明"],
+      "line_sources": [
+        {"source_time": "00:47:04.63", "original_excerpt": "frame for frame, reminding me of stunts"},
+        {"source_time": "00:47:08.88-00:47:14.63", "original_excerpt": "he made me realize why I loved filmmaking"},
+        {"source_time": "00:47:14.64-00:47:20.07", "original_excerpt": "It's a passion ... not just a job"},
+        {"source_time": "00:47:44.79", "original_excerpt": "these things are not failures"},
+        {"source_time": "00:47:56.55-00:48:00.71", "original_excerpt": "makes you more resilient ... makes you smarter"}
+      ]
+    }
+  ]
+}

@@ -33,3 +33,7 @@ cookies.txt
 
 # 可从 GitHub 重新获取的安装压缩包
 tools/youtube-screenshot-extension-main.zip
+
+# 内容制作的临时帧与字幕缓存（最终只提交成品和来源定位）
+content/**/frames/
+content/**/source/*.vtt
