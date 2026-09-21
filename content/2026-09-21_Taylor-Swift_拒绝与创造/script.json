@@ -1,0 +1,144 @@
+{
+  "work_id": "LT026",
+  "person": "泰勒·斯威夫特 Taylor Swift",
+  "title": "泰勒·斯威夫特：那些没被选中的时刻，后来都在帮我",
+  "source_url": "https://www.youtube.com/watch?v=0bkDDJNOlJQ",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用YouTube最高可用画质的视频流直接截取8张人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已授权开始生成；按本项目既有素材权限声明执行",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["泰勒·斯威夫特：", "那些没被选中的时刻", "后来都在帮我"],
+    "source": "由成品人物截图区域重新裁切"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "没被选中，也在帮你",
+      "frame": "frames/01.png",
+      "frame_time": "00:01:30",
+      "focus_x": 0.43,
+      "source_time": "00:17:14-00:17:37",
+      "lines": ["那些被拒绝、没被选中的时刻", "那些没有赢、没有入围的时刻", "回头看，它们和被肯定的时刻", "同样重要，甚至更加关键"],
+      "line_sources": [
+        {"source_time": "00:17:14", "original_excerpt": "the times I was told no or wasn't included"},
+        {"source_time": "00:17:21", "original_excerpt": "wasn't chosen, didn't win, didn't make the cut"},
+        {"source_time": "00:17:21-00:17:29", "original_excerpt": "looking back it really feels like those moments"},
+        {"source_time": "00:17:29", "original_excerpt": "as important, if not more crucial, than the moments I was told yes"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "孤独给了我一张门票",
+      "frame": "frames/02.png",
+      "frame_time": "00:04:20",
+      "focus_x": 0.43,
+      "source_time": "00:17:29-00:17:53",
+      "lines": ["小时候，我没被邀请参加聚会", "也没人叫我一起留宿", "那让我感到无比孤独", "可正因为孤独，我坐在房间里写歌", "那些歌后来成了去往别处的门票"],
+      "line_sources": [
+        {"source_time": "00:17:29-00:17:37", "original_excerpt": "not being invited to the parties"},
+        {"source_time": "00:17:29-00:17:37", "original_excerpt": "and sleepovers in my hometown"},
+        {"source_time": "00:17:37", "original_excerpt": "made me feel hopelessly lonely"},
+        {"source_time": "00:17:44", "original_excerpt": "because I felt alone I would sit in my room and write the songs"},
+        {"source_time": "00:17:44", "original_excerpt": "the songs that would get me a ticket somewhere else"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "十三岁那年的拒绝",
+      "frame": "frames/03.png",
+      "frame_time": "00:07:00",
+      "focus_x": 0.43,
+      "source_time": "00:17:53-00:18:09",
+      "lines": ["十三岁时，唱片公司告诉我", "听乡村音乐的只有三十五岁家庭主妇", "他们的名单里没有我的位置", "我一路哭着坐车回家", "但我没有停止写歌"],
+      "line_sources": [
+        {"source_time": "00:17:53", "original_excerpt": "having label executives in Nashville tell me"},
+        {"source_time": "00:17:53", "original_excerpt": "only 35-year-old housewives listened to country music"},
+        {"source_time": "00:18:01", "original_excerpt": "there was no place for a 13-year-old on their roster"},
+        {"source_time": "00:18:01", "original_excerpt": "made me cry in the car on the way home"},
+        {"source_time": "00:18:01-00:18:09", "original_excerpt": "but then I'd post my songs on my MySpace"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "我去寻找自己的听众",
+      "frame": "frames/04.png",
+      "frame_time": "00:10:20",
+      "focus_x": 0.50,
+      "source_time": "00:18:09-00:18:26",
+      "lines": ["我开始把歌发到MySpace", "和同样喜欢乡村音乐的年轻人交流", "她们喜欢这种音乐", "却一直没有人", "唱出属于她们的视角"],
+      "line_sources": [
+        {"source_time": "00:18:09", "original_excerpt": "I'd post my songs on my MySpace"},
+        {"source_time": "00:18:09-00:18:18", "original_excerpt": "message with other teenagers like me who loved country music"},
+        {"source_time": "00:18:18", "original_excerpt": "who loved country music"},
+        {"source_time": "00:18:18", "original_excerpt": "didn't have anyone"},
+        {"source_time": "00:18:18", "original_excerpt": "singing from their perspective"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "批评逼我看见自己",
+      "frame": "frames/05.png",
+      "frame_time": "00:13:30",
+      "focus_x": 0.43,
+      "source_time": "00:18:26-00:18:43",
+      "lines": ["后来，记者写下长篇批评", "描述他们眼中的我", "那让我像活在某种模拟世界", "却也逼我开始向内看", "重新认识真正的自己"],
+      "line_sources": [
+        {"source_time": "00:18:26", "original_excerpt": "journalists write in-depth, oftentimes critical pieces"},
+        {"source_time": "00:18:26", "original_excerpt": "about who they perceived me to be"},
+        {"source_time": "00:18:26", "original_excerpt": "living in some weird simulation"},
+        {"source_time": "00:18:35", "original_excerpt": "it also made me look inward"},
+        {"source_time": "00:18:35", "original_excerpt": "to learn about who I actually am"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "不再追逐所有人的喜欢",
+      "frame": "frames/06.png",
+      "frame_time": "00:17:15",
+      "focus_x": 0.43,
+      "source_time": "00:18:43-00:19:15",
+      "lines": ["全世界把我的感情生活", "当成一场供人围观的比赛", "年轻时一次次被公开羞辱", "那种痛苦几乎难以承受", "却让我不再追逐随时变化的喜欢"],
+      "line_sources": [
+        {"source_time": "00:18:43", "original_excerpt": "the world treat my love life like a spectator sport"},
+        {"source_time": "00:18:43", "original_excerpt": "a spectator sport in which I lose every single game"},
+        {"source_time": "00:18:52-00:19:00", "original_excerpt": "being publicly humiliated over and over again at a young age"},
+        {"source_time": "00:19:00", "original_excerpt": "was excruciatingly painful"},
+        {"source_time": "00:19:00-00:19:08", "original_excerpt": "devalue the ridiculous notion of ... social relevance and likability"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "犯错确实会让你失去",
+      "frame": "frames/07.png",
+      "frame_time": "00:18:35",
+      "focus_x": 0.43,
+      "source_time": "00:20:13-00:21:08",
+      "lines": ["人生里，你一定会说错话、信错人", "会过度反应，也会伤害不该伤害的人", "你可能跌到谷底", "终于面对自己造成的痛苦", "然后试着下一次做得更好"],
+      "line_sources": [
+        {"source_time": "00:20:13-00:20:21", "original_excerpt": "you will inevitably misspeak, trust the wrong person"},
+        {"source_time": "00:20:21-00:20:28", "original_excerpt": "overreact, hurt the people who didn't deserve it"},
+        {"source_time": "00:20:49", "original_excerpt": "hit rock bottom"},
+        {"source_time": "00:20:49", "original_excerpt": "finally address the pain you caused"},
+        {"source_time": "00:20:49", "original_excerpt": "try to do better next time"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "失去也会带来获得",
+      "frame": "frames/08.png",
+      "frame_time": "00:23:00",
+      "focus_x": 0.50,
+      "source_time": "00:21:08-00:21:33",
+      "lines": ["这些错误会让你失去一些东西", "但失去，并不只意味着失去", "很多时候，当我们失去一些东西", "也会同时获得一些东西", "每个选择都会把你带向下一个选择"],
+      "line_sources": [
+        {"source_time": "00:21:08", "original_excerpt": "these mistakes will cause you to lose things"},
+        {"source_time": "00:21:08-00:21:17", "original_excerpt": "losing things doesn't just mean losing"},
+        {"source_time": "00:21:17", "original_excerpt": "a lot of the time when we lose things"},
+        {"source_time": "00:21:17", "original_excerpt": "we gain things too"},
+        {"source_time": "00:21:25-00:21:33", "original_excerpt": "every choice you make leads to the next choice"}
+      ]
+    }
+  ]
+}

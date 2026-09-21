@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageEnhance, ImageFont
@@ -68,21 +69,42 @@ def make_cover(source: Path, output: Path, lines: list[str], focus_x: int) -> No
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--only", nargs="*", default=[])
+    args = parser.parse_args()
     jobs = [
         (
+            "michelle",
             ROOT / "content" / "2026-09-15_Michelle-Yeoh_受伤与重启" / "成品" / "02.jpg",
             ROOT / "content" / "2026-09-15_Michelle-Yeoh_受伤与重启" / "封面.jpg",
             ["杨紫琼：", "全身打满石膏后", "我真的想过放弃"],
             520,
         ),
         (
+            "jensen",
             ROOT / "content" / "2026-09-15_Jensen-Huang_创业与支撑" / "成品" / "02.jpg",
             ROOT / "content" / "2026-09-15_Jensen-Huang_创业与支撑" / "封面.jpg",
             ["黄仁勋：", "如果重来一次", "我不会创办英伟达"],
             540,
         ),
+        (
+            "taylor",
+            ROOT / "content" / "2026-09-21_Taylor-Swift_拒绝与创造" / "成品" / "02.jpg",
+            ROOT / "content" / "2026-09-21_Taylor-Swift_拒绝与创造" / "封面.jpg",
+            ["泰勒·斯威夫特：", "那些没被选中的时刻", "后来都在帮我"],
+            610,
+        ),
+        (
+            "oprah",
+            ROOT / "content" / "2026-09-21_Oprah-Winfrey_公开失败" / "成品" / "05.jpg",
+            ROOT / "content" / "2026-09-21_Oprah-Winfrey_公开失败" / "封面.jpg",
+            ["奥普拉：", "站在事业巅峰后", "我经历了最公开的失败"],
+            710,
+        ),
     ]
-    for source, output, lines, focus_x in jobs:
+    for name, source, output, lines, focus_x in jobs:
+        if args.only and name not in args.only:
+            continue
         make_cover(source, output, lines, focus_x)
         print(output)
 

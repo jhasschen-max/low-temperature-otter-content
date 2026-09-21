@@ -1,0 +1,144 @@
+{
+  "work_id": "LT027",
+  "person": "奥普拉·温弗瑞 Oprah Winfrey",
+  "title": "奥普拉：站在事业巅峰后，我经历了最公开的一次失败",
+  "source_url": "https://www.youtube.com/watch?v=GMWFieBGR7c",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用YouTube最高可用画质的视频流直接截取8张人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已授权开始生成；按本项目既有素材权限声明执行",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["奥普拉：", "站在事业巅峰后", "我经历了最公开的失败"],
+    "source": "由成品人物截图区域重新裁切"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "失败在改变你的方向",
+      "frame": "frames/01.png",
+      "frame_time": "00:01:15",
+      "focus_x": 0.50,
+      "source_time": "00:08:13-00:08:58",
+      "lines": ["无论你走到多高", "总有一天，你都会跌倒", "失败，只是生活", "在把你推向另一个方向"],
+      "line_sources": [
+        {"source_time": "00:08:13", "original_excerpt": "it doesn't matter how far you might rise"},
+        {"source_time": "00:08:21-00:08:36", "original_excerpt": "at some point, you are bound to stumble ... you will at some point fall"},
+        {"source_time": "00:08:43", "original_excerpt": "there is no such thing as failure"},
+        {"source_time": "00:08:49", "original_excerpt": "failure is just life trying to move us in another direction"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "成功让我变得很舒服",
+      "frame": "frames/02.png",
+      "frame_time": "00:03:05",
+      "focus_x": 0.50,
+      "source_time": "00:04:13-00:05:00",
+      "lines": ["十九岁时，我已经开始做电视", "一九八六年，我创办了自己的节目", "我们登上顶峰，并在那里停留二十五年", "节目连续二十一年位居同时段第一", "我已经习惯了那种成功"],
+      "line_sources": [
+        {"source_time": "00:04:13", "original_excerpt": "I was on television by the time I was 19 years old"},
+        {"source_time": "00:04:13", "original_excerpt": "in 1986, I launched my own television show"},
+        {"source_time": "00:04:37", "original_excerpt": "we did make it to the top, and we stayed there for 25 years"},
+        {"source_time": "00:04:47", "original_excerpt": "number 1 in our time slot for 21 years"},
+        {"source_time": "00:04:55", "original_excerpt": "I became pretty comfortable with that level of success"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "我主动离开了巅峰",
+      "frame": "frames/03.png",
+      "frame_time": "00:04:35",
+      "focus_x": 0.50,
+      "source_time": "00:05:00-00:05:29",
+      "lines": ["但我决定重新计算人生", "去寻找新的领域，开辟新的道路", "于是我结束了那档节目", "创办奥普拉电视网", "一年后，几乎所有媒体都说它失败了"],
+      "line_sources": [
+        {"source_time": "00:05:00", "original_excerpt": "it was time to recalculate"},
+        {"source_time": "00:05:00", "original_excerpt": "find new territory, break new ground"},
+        {"source_time": "00:05:10", "original_excerpt": "I ended the show"},
+        {"source_time": "00:05:10", "original_excerpt": "launched OWN, the Oprah Winfrey Network"},
+        {"source_time": "00:05:20-00:05:29", "original_excerpt": "nearly every media outlet had proclaimed that my new venture was a flop"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "所有人都说我失败了",
+      "frame": "frames/04.png",
+      "frame_time": "00:05:35",
+      "focus_x": 0.50,
+      "source_time": "00:05:29-00:06:09",
+      "lines": ["他们说，不只是失败", "而是一场巨大又醒目的失败", "我至今记得报纸上的嘲讽标题", "那是我职业生涯最糟糕的时期", "我压力巨大、沮丧，而且感到羞耻"],
+      "line_sources": [
+        {"source_time": "00:05:29", "original_excerpt": "not just a flop"},
+        {"source_time": "00:05:29", "original_excerpt": "a big, bold flop"},
+        {"source_time": "00:05:35", "original_excerpt": "I opened up USA Today and read the headline"},
+        {"source_time": "00:05:53", "original_excerpt": "the worst period in my professional life"},
+        {"source_time": "00:06:01-00:06:04", "original_excerpt": "I was stressed ... frustrated ... embarrassed"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "最难堪时收到哈佛邀请",
+      "frame": "frames/05.png",
+      "frame_time": "00:06:40",
+      "focus_x": 0.50,
+      "source_time": "00:06:09-00:06:46",
+      "lines": ["就在那时，我接到哈佛的邀请", "他们希望我为毕业生演讲", "可我能对这些优秀的人说什么", "偏偏那一刻", "我觉得自己已经不再成功"],
+      "line_sources": [
+        {"source_time": "00:06:09", "original_excerpt": "President Faust called and asked me to speak here"},
+        {"source_time": "00:06:09", "original_excerpt": "you want me to speak to Harvard graduates"},
+        {"source_time": "00:06:20", "original_excerpt": "what could I possibly say to Harvard graduates"},
+        {"source_time": "00:06:20", "original_excerpt": "in the very moment"},
+        {"source_time": "00:06:20", "original_excerpt": "when I had stopped succeeding"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "我决定把它扭转过来",
+      "frame": "frames/06.png",
+      "frame_time": "00:08:05",
+      "focus_x": 0.50,
+      "source_time": "00:06:46-00:07:22",
+      "lines": ["那时，我以为自己困在一个深洞里", "可麻烦不会永远持续", "这一切也会过去", "我决定把局面扭转过来", "并让自己因为这次经历变得更好"],
+      "line_sources": [
+        {"source_time": "00:06:53", "original_excerpt": "I thought I was stuck in a hole"},
+        {"source_time": "00:07:05", "original_excerpt": "trouble don't last always"},
+        {"source_time": "00:07:05", "original_excerpt": "this too shall pass"},
+        {"source_time": "00:07:13", "original_excerpt": "I am going to turn this thing around"},
+        {"source_time": "00:07:13", "original_excerpt": "I will be better for it"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "再高也可能会跌倒",
+      "frame": "frames/07.png",
+      "frame_time": "00:08:55",
+      "focus_x": 0.50,
+      "source_time": "00:07:22-00:08:49",
+      "lines": ["后来，我真的扭转了那家电视网", "但我也明白了一件事", "无论一个人走到多高", "只要还在不断提高标准、推动自己", "就总会有跌倒的一天"],
+      "line_sources": [
+        {"source_time": "00:07:22", "original_excerpt": "I have turned that network around"},
+        {"source_time": "00:08:13", "original_excerpt": "this is what I want to share"},
+        {"source_time": "00:08:13", "original_excerpt": "it doesn't matter how far you might rise"},
+        {"source_time": "00:08:21-00:08:27", "original_excerpt": "raising the bar ... constantly pushing yourself higher"},
+        {"source_time": "00:08:36", "original_excerpt": "you will at some point fall"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "只找下一步正确行动",
+      "frame": "frames/08.png",
+      "frame_time": "00:09:35",
+      "focus_x": 0.50,
+      "source_time": "00:08:49-00:09:38",
+      "lines": ["跌进谷底时，允许自己难过一会儿", "给自己时间，悼念以为失去的东西", "然后从每一个错误里学习", "让经历推动你成为更完整的自己", "再去寻找下一步正确的行动"],
+      "line_sources": [
+        {"source_time": "00:09:03", "original_excerpt": "it's really OK to feel bad for a little while"},
+        {"source_time": "00:09:10", "original_excerpt": "give yourself time to mourn what you think you may have lost"},
+        {"source_time": "00:09:15", "original_excerpt": "learn from every mistake"},
+        {"source_time": "00:09:25", "original_excerpt": "force you into being more of who you are"},
+        {"source_time": "00:09:33", "original_excerpt": "figure out what is the next right move"}
+      ]
+    }
+  ]
+}
