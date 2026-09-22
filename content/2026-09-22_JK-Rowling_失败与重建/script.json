@@ -1,0 +1,114 @@
+{
+  "work_id": "LT028",
+  "person": "J.K. 罗琳 J.K. Rowling",
+  "title": "失败，会帮你看清自己",
+  "source_url": "https://www.youtube.com/watch?v=wHGqp8lz36c",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用YouTube最高可用画质的视频流直接截取8张不同神态的人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认选题并授权生成；按本项目既有素材权限声明执行",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["失败，会帮你", "看清自己"],
+    "source": "由成品人物截图区域重新裁切"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "你不可能一生不失败",
+      "frame": "frames/01.png",
+      "frame_time": "00:09:42",
+      "focus_x": 0.50,
+      "source_time": "00:09:35-00:09:52",
+      "lines": ["人生里，一些失败不可避免", "除非你活得谨小慎微", "从不真正尝试任何事情", "可那样的人生", "本身就是另一种失败"],
+      "line_sources": [
+        {"source_time": "00:09:35-00:09:52", "original_excerpt": "failure is inevitable"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "我曾最害怕失败",
+      "frame": "frames/02.png",
+      "frame_time": "00:03:48",
+      "focus_x": 0.50,
+      "source_time": "00:03:45-00:06:15",
+      "lines": ["二十一岁时，我夹在两种期待之间", "一边是我真正想要的人生", "一边是亲近的人期待的安稳", "那时我最害怕的", "不是贫穷，而是失败"],
+      "line_sources": [
+        {"source_time": "00:03:45-00:03:53", "original_excerpt": "uneasy balance"},
+        {"source_time": "00:06:09-00:06:15", "original_excerpt": "but failure"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "世界会替你定义失败",
+      "frame": "frames/03.png",
+      "frame_time": "00:07:38",
+      "focus_x": 0.50,
+      "source_time": "00:07:32-00:07:44",
+      "lines": ["什么算失败，本应由你决定", "但只要你允许", "世界就会急着给你", "一整套现成的标准", "再替你宣判输赢"],
+      "line_sources": [
+        {"source_time": "00:07:32-00:07:41", "original_excerpt": "set of criteria"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "我曾按世俗标准彻底失败",
+      "frame": "frames/04.png",
+      "frame_time": "00:07:54",
+      "focus_x": 0.50,
+      "source_time": "00:07:44-00:08:21",
+      "lines": ["毕业七年后，我的婚姻破裂", "我失去工作，独自抚养女儿", "穷到只差没有无家可归", "父母和我曾经害怕的事", "几乎全部成了现实"],
+      "line_sources": [
+        {"source_time": "00:07:44-00:08:21", "original_excerpt": "failed on an epic scale"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "失败剥掉了不重要的东西",
+      "frame": "frames/05.png",
+      "frame_time": "00:08:57",
+      "focus_x": 0.50,
+      "source_time": "00:08:43-00:09:13",
+      "lines": ["失败剥掉了所有不重要的东西", "我不再假装成别的样子", "也不再把力气花在错误的方向", "我把所有精力", "用来完成真正重要的作品"],
+      "line_sources": [
+        {"source_time": "00:08:43-00:09:03", "original_excerpt": "stripping away"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "谷底成了重新开始的地基",
+      "frame": "frames/06.png",
+      "frame_time": "00:09:24",
+      "focus_x": 0.50,
+      "source_time": "00:09:13-00:09:32",
+      "lines": ["我最大的恐惧已经发生", "可我仍然活着", "我还有深爱的女儿、旧打字机", "和一个很大的想法", "谷底因此成了重建人生的地基"],
+      "line_sources": [
+        {"source_time": "00:09:13-00:09:32", "original_excerpt": "rock bottom became"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "逆境让你知道自己是谁",
+      "frame": "frames/07.png",
+      "frame_time": "00:10:20",
+      "focus_x": 0.50,
+      "source_time": "00:09:53-00:10:40",
+      "lines": ["失败给了我考试从未给过的安全感", "它让我发现自己的意志和纪律", "也让我认清真正珍贵的朋友", "你不会真正了解自己", "直到你和关系都被逆境考验"],
+      "line_sources": [
+        {"source_time": "00:09:53-00:10:40", "original_excerpt": "inner security"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "履历不是你的人生",
+      "frame": "frames/08.png",
+      "frame_time": "00:10:55",
+      "focus_x": 0.50,
+      "source_time": "00:10:45-00:11:09",
+      "lines": ["幸福不在一张成就清单里", "资格、头衔和履历", "都不是你的人生本身", "人生复杂，也不受任何人完全控制", "知道这一点，反而能让你走得更稳"],
+      "line_sources": [
+        {"source_time": "00:10:49-00:10:58", "original_excerpt": "not your life"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "package": "2026-09-22_JK-Rowling_失败与重建",
+  "page_count": 8,
+  "all_body_fonts_equal": true,
+  "all_dimensions_correct": true,
+  "all_lines_within_limit": true,
+  "all_text_within_canvas": true,
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:09:42"
+    },
+    {
+      "page": 2,
+      "file": "02.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:03:48"
+    },
+    {
+      "page": 3,
+      "file": "03.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:07:38"
+    },
+    {
+      "page": 4,
+      "file": "04.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:07:54"
+    },
+    {
+      "page": 5,
+      "file": "05.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:08:57"
+    },
+    {
+      "page": 6,
+      "file": "06.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:09:24"
+    },
+    {
+      "page": 7,
+      "file": "07.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:10:20"
+    },
+    {
+      "page": 8,
+      "file": "08.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:10:55"
+    }
+  ]
+}

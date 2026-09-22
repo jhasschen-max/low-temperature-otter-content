@@ -1,0 +1,114 @@
+{
+  "work_id": "LT029",
+  "person": "布琳·布朗 Brené Brown",
+  "title": "脆弱，是另一种勇敢",
+  "source_url": "https://www.youtube.com/watch?v=iCvmsMzlF7o",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用YouTube最高可用画质的视频流直接截取8张不同神态的人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认选题并授权生成；按本项目既有素材权限声明执行",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["脆弱，是", "另一种勇敢"],
+    "source": "由成品人物截图区域重新裁切"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "脆弱，是另一种勇敢",
+      "frame": "frames/01.png",
+      "frame_time": "00:10:07",
+      "focus_x": 0.50,
+      "source_time": "00:10:00-00:10:29",
+      "lines": ["真正完整地活着的人", "并不觉得脆弱很舒服", "他们只是明白", "让自己暴露在不确定里", "是爱与连接无法绕开的条件"],
+      "line_sources": [
+        {"source_time": "00:10:00-00:10:18", "original_excerpt": "being necessary"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "连接让生命拥有意义",
+      "frame": "frames/02.png",
+      "frame_time": "00:03:23",
+      "focus_x": 0.50,
+      "source_time": "00:03:18-00:04:24",
+      "lines": ["我们来到这里", "本就是为了与人连接", "连接让生活拥有目的和意义", "可当我追问爱与归属", "人们讲的却总是心碎与被排除"],
+      "line_sources": [
+        {"source_time": "00:03:22-00:03:27", "original_excerpt": "connection is why"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "羞耻来自害怕被看见",
+      "frame": "frames/03.png",
+      "frame_time": "00:06:35",
+      "focus_x": 0.50,
+      "source_time": "00:04:42-00:05:36",
+      "lines": ["羞耻，本质上是害怕失去连接", "害怕别人真正看见你以后", "发现你不够好", "于是决定", "你不值得被爱与接纳"],
+      "line_sources": [
+        {"source_time": "00:04:45-00:04:49", "original_excerpt": "fear of disconnection"},
+        {"source_time": "00:05:31-00:05:36", "original_excerpt": "really seen"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "差别在于相信自己值得",
+      "frame": "frames/04.png",
+      "frame_time": "00:07:24",
+      "focus_x": 0.50,
+      "source_time": "00:06:56-00:07:42",
+      "lines": ["研究中，真正拉开差距的", "不是能力、外表或成就", "而是有些人真心相信", "自己值得被爱", "也值得拥有归属"],
+      "line_sources": [
+        {"source_time": "00:07:23-00:07:25", "original_excerpt": "worthy of love"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "勇气是讲出真实的自己",
+      "frame": "frames/05.png",
+      "frame_time": "00:09:10",
+      "focus_x": 0.50,
+      "source_time": "00:08:48-00:09:34",
+      "lines": ["勇气最早的含义", "是用整颗心讲出真实的自己", "那些活得完整的人", "有勇气承认不完美", "也愿意放下应该成为的样子"],
+      "line_sources": [
+        {"source_time": "00:09:09-00:09:13", "original_excerpt": "courage to be imperfect"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "脆弱也是快乐的起点",
+      "frame": "frames/06.png",
+      "frame_time": "00:12:53",
+      "focus_x": 0.50,
+      "source_time": "00:12:44-00:12:58",
+      "lines": ["脆弱确实会带来羞耻和恐惧", "也会让人怀疑自己的价值", "但它同时还是", "快乐、创造力、归属感", "以及爱的起点"],
+      "line_sources": [
+        {"source_time": "00:12:52-00:12:57", "original_excerpt": "birthplace of joy"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "情绪无法被选择性麻醉",
+      "frame": "frames/07.png",
+      "frame_time": "00:16:27",
+      "focus_x": 0.50,
+      "source_time": "00:15:52-00:16:37",
+      "lines": ["你无法只麻醉痛苦的情绪", "当你关闭脆弱、悲伤和失望", "也会一起关闭快乐", "感激与幸福", "情绪从来不能被选择性麻醉"],
+      "line_sources": [
+        {"source_time": "00:15:52-00:16:27", "original_excerpt": "selectively numb emotion"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "相信自己已经足够",
+      "frame": "frames/08.png",
+      "frame_time": "00:18:44",
+      "focus_x": 0.50,
+      "source_time": "00:19:10-00:20:08",
+      "lines": ["允许自己被深深看见", "即使爱没有任何保证", "在害怕时仍练习感激与快乐", "并相信自己已经足够", "你才会开始倾听，也更加温柔"],
+      "line_sources": [
+        {"source_time": "00:19:52-00:19:54", "original_excerpt": "we're enough"}
+      ]
+    }
+  ]
+}
