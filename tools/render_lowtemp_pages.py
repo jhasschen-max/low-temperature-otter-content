@@ -125,6 +125,8 @@ def render_package(package_dir: Path, logo_path: Path) -> dict:
         base = ImageEnhance.Brightness(base).enhance(0.76)
         base.alpha_composite(Image.new("RGBA", CANVAS, (0, 0, 0, 22)))
         add_gradient(base, 120, 205)
+        lower_veil = Image.new("RGBA", (CANVAS[0], CANVAS[1] - 1080), (0, 0, 0, 178))
+        base.alpha_composite(lower_veil, (0, 1080))
         draw = ImageDraw.Draw(base, "RGBA")
 
         page_no = f'{page["page"]:02d} / {len(spec["pages"]):02d}'

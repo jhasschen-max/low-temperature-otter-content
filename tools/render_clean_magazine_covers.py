@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
@@ -9,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CANVAS = (1440, 1920)
 GOLD = (231, 181, 65)
 IVORY = (246, 243, 235)
-SERIF = Path(r"C:\Windows\Fonts\NotoSerifSC-VF.ttf")
+SERIF = Path(r"C:\Windows\Fonts\NotoSansSC-VF.ttf")
 LOGO = ROOT / "brand" / "低温水獭_logo_gold.png"
 
 
@@ -62,6 +63,8 @@ def render(source: Path, output: Path, lines: list[tuple[str, int, tuple[int, in
     for y in range(CANVAS[1]):
         top = 92 if y < 240 else 0
         bottom = 0 if y < 680 else min(255, round((y - 680) / 660 * 255))
+        if y >= 1020:
+            bottom = max(bottom, 232)
         alpha = max(top, bottom)
         if alpha:
             for x in range(CANVAS[0]):
@@ -82,6 +85,9 @@ def render(source: Path, output: Path, lines: list[tuple[str, int, tuple[int, in
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--only", help="Only render jobs whose output path contains this text")
+    args = parser.parse_args()
     jobs = [
         (
             ROOT / "content" / "2026-09-22_JK-Rowling_失败与重建" / "frames" / "02.png",
@@ -95,7 +101,21 @@ def main() -> None:
             [("脆弱，", 116, IVORY), ("是另一种", 126, IVORY), ("勇敢", 132, GOLD)],
             0.50,
         ),
+        (
+            ROOT / "content" / "2026-09-27_Vanessa-Van-Edwards_谈话留白" / "frames" / "01.png",
+            ROOT / "content" / "2026-09-27_Vanessa-Van-Edwards_谈话留白" / "封面.jpg",
+            [("会说话的人", 108, IVORY), ("都懂得", 122, IVORY), ("留白", 136, GOLD)],
+            0.48,
+        ),
+        (
+            ROOT / "content" / "2026-09-27_Thewizardliz_不确定与行动" / "frames" / "cover.png",
+            ROOT / "content" / "2026-09-27_Thewizardliz_不确定与行动" / "封面.jpg",
+            [("别急", 118, IVORY), ("一切都还", 124, IVORY), ("来得及", 136, GOLD)],
+            0.50,
+        ),
     ]
+    if args.only:
+        jobs = [job for job in jobs if args.only in str(job[1])]
     for source, output, lines, focus_x in jobs:
         render(source, output, lines, focus_x)
         print(output)

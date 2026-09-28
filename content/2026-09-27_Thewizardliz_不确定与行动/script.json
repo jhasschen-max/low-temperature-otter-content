@@ -1,0 +1,145 @@
+{
+  "work_id": "LT031",
+  "person": "Thewizardliz",
+  "title": "别急，一切都还来得及",
+  "source_url": "https://www.youtube.com/watch?v=HEqXeXI_KAE",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用同源公开镜像的1080P视频流直接截取8张不同神态的人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认拥有该公开视频的下载、翻译、处理和发布权限",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["别急", "一切都还", "来得及"],
+    "source": "frames/cover.png"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "你仍然拥有机会",
+      "frame": "frames/01.png",
+      "frame_time": "00:11:40",
+      "focus_x": 0.50,
+      "source_time": "00:11:35-00:11:55",
+      "lines": ["只要你还在呼吸", "你就仍然拥有机会", "我并不是什么特殊的人", "也不是因为我是被选中的人", "我只是拒绝放弃自己"],
+      "line_sources": [
+        {"source_time": "00:11:35-00:11:43", "original_excerpt": "if you're breathing right now"},
+        {"source_time": "00:11:35-00:11:43", "original_excerpt": "you have a shot at life"},
+        {"source_time": "00:11:35-00:11:47", "original_excerpt": "I am not special"},
+        {"source_time": "00:11:43-00:11:48", "original_excerpt": "I'm the chosen one"},
+        {"source_time": "00:11:47-00:11:55", "original_excerpt": "I just refuse to give up on myself"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "低谷不是终点",
+      "frame": "frames/02.png",
+      "frame_time": "00:00:15",
+      "focus_x": 0.50,
+      "source_time": "00:00:10-00:01:04",
+      "lines": ["当人生跌到谷底", "当一切看起来都在崩塌", "那也可能是在提醒你", "旧的生活需要离开", "新的事物才有空间进来"],
+      "line_sources": [
+        {"source_time": "00:00:10-00:00:21", "original_excerpt": "I am at rock bottom"},
+        {"source_time": "00:00:10-00:00:21", "original_excerpt": "my life is literally falling apart"},
+        {"source_time": "00:00:21-00:00:30", "original_excerpt": "is literally the sign"},
+        {"source_time": "00:00:41-00:00:49", "original_excerpt": "you need to be able to let go of a life"},
+        {"source_time": "00:00:58-00:01:04", "original_excerpt": "make space for those new things to come in"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "先找到你的理由",
+      "frame": "frames/03.png",
+      "frame_time": "00:04:00",
+      "focus_x": 0.50,
+      "source_time": "00:01:08-00:02:26",
+      "lines": ["进入下一段人生以前", "先问清楚自己为什么而做", "当我开始做社交媒体", "我的理由是帮助家人", "这个理由让我一直坚持"],
+      "line_sources": [
+        {"source_time": "00:01:08-00:01:17", "original_excerpt": "when you're entering a new timeline"},
+        {"source_time": "00:01:08-00:01:17", "original_excerpt": "be really clear for yourself is why"},
+        {"source_time": "00:01:17-00:01:24", "original_excerpt": "when I started out doing social media"},
+        {"source_time": "00:01:20-00:01:24", "original_excerpt": "my reason why was helping my family"},
+        {"source_time": "00:01:24-00:01:28", "original_excerpt": "the thing that kept me going constantly"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "留意你摄入的东西",
+      "frame": "frames/04.png",
+      "frame_time": "00:05:00",
+      "focus_x": 0.50,
+      "source_time": "00:03:22-00:04:54",
+      "lines": ["小心你每天反复想什么", "也要留意自己在摄入什么", "你摄入的那些内容", "会影响你成为怎样的人", "对进入身心的东西保持清醒"],
+      "line_sources": [
+        {"source_time": "00:03:22-00:03:29", "original_excerpt": "what you ruminate on and what you think about"},
+        {"source_time": "00:03:39-00:03:46", "original_excerpt": "become intentional about what you consume"},
+        {"source_time": "00:03:42-00:03:46", "original_excerpt": "what you consume"},
+        {"source_time": "00:03:42-00:03:46", "original_excerpt": "is who you are"},
+        {"source_time": "00:04:47-00:04:54", "original_excerpt": "be mindful about what I put inside of my mind and body"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "一次先解决一件事",
+      "frame": "frames/05.png",
+      "frame_time": "00:08:00",
+      "focus_x": 0.50,
+      "source_time": "00:04:45-00:05:32",
+      "lines": ["你不必同时解决所有问题", "只选择一件最重要的事", "先把注意力放在它上面", "因为问题太多又太大时", "大脑反而会什么都不做"],
+      "line_sources": [
+        {"source_time": "00:04:45-00:05:21", "original_excerpt": "you just fix all of those problems by focusing on one thing"},
+        {"source_time": "00:04:45-00:04:52", "original_excerpt": "choose one thing that you focus on"},
+        {"source_time": "00:04:45-00:04:52", "original_excerpt": "when you focus on that one thing"},
+        {"source_time": "00:05:21-00:05:29", "original_excerpt": "the problems are too big and it's overwhelming"},
+        {"source_time": "00:05:27-00:05:32", "original_excerpt": "brain doesn't want to do anything"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "行动会生出自信",
+      "frame": "frames/06.png",
+      "frame_time": "00:09:00",
+      "focus_x": 0.50,
+      "source_time": "00:05:41-00:05:52",
+      "lines": ["当你真正开始行动", "开始兑现对自己的承诺", "你会发现自己更爱自己", "也会变得更有自信", "因为你真的做到了"],
+      "line_sources": [
+        {"source_time": "00:05:41-00:05:44", "original_excerpt": "you start working out"},
+        {"source_time": "00:05:48-00:05:52", "original_excerpt": "I actually did what I said I was going to do"},
+        {"source_time": "00:05:44-00:05:48", "original_excerpt": "you love yourself more"},
+        {"source_time": "00:05:48-00:05:52", "original_excerpt": "I'm so confident"},
+        {"source_time": "00:05:48-00:05:52", "original_excerpt": "I actually did what I said I was going to do"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "今天决定未来",
+      "frame": "frames/07.png",
+      "frame_time": "00:11:00",
+      "focus_x": 0.50,
+      "source_time": "00:10:22-00:10:36",
+      "lines": ["如果你从今天开始", "未来会变得更好", "可如果今天什么都不做", "未来也不会发生什么", "什么都不会改变"],
+      "line_sources": [
+        {"source_time": "00:10:22-00:10:27", "original_excerpt": "If you start today"},
+        {"source_time": "00:10:22-00:10:27", "original_excerpt": "your future will look beautiful"},
+        {"source_time": "00:10:27-00:10:35", "original_excerpt": "if you do nothing today"},
+        {"source_time": "00:10:27-00:10:35", "original_excerpt": "nothing is going to happen in the future"},
+        {"source_time": "00:10:35-00:10:36", "original_excerpt": "Nothing is going to change"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "别把自己弄丢",
+      "frame": "frames/08.png",
+      "frame_time": "00:12:40",
+      "focus_x": 0.50,
+      "source_time": "00:12:24-00:12:49",
+      "lines": ["你会在生命里失去很多", "我也失去过很多人", "但你唯一不能失去的人", "是你自己", "只要你还在，每天都有机会"],
+      "line_sources": [
+        {"source_time": "00:12:24-00:12:48", "original_excerpt": "you're going to lose so many things in life"},
+        {"source_time": "00:12:28-00:12:53", "original_excerpt": "I've lost a lot of people in my life"},
+        {"source_time": "00:12:33-00:12:58", "original_excerpt": "one person you cannot afford to lose"},
+        {"source_time": "00:12:33-00:12:58", "original_excerpt": "is yourself"},
+        {"source_time": "00:12:39-00:12:49", "original_excerpt": "Every day a chance to make it in life"}
+      ]
+    }
+  ]
+}

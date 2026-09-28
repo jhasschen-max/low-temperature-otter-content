@@ -1,0 +1,106 @@
+{
+  "package": "2026-09-27_Thewizardliz_不确定与行动",
+  "page_count": 8,
+  "all_body_fonts_equal": true,
+  "all_dimensions_correct": true,
+  "all_lines_within_limit": true,
+  "all_text_within_canvas": true,
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:11:40"
+    },
+    {
+      "page": 2,
+      "file": "02.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:00:15"
+    },
+    {
+      "page": 3,
+      "file": "03.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:04:00"
+    },
+    {
+      "page": 4,
+      "file": "04.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:05:00"
+    },
+    {
+      "page": 5,
+      "file": "05.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:08:00"
+    },
+    {
+      "page": 6,
+      "file": "06.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:09:00"
+    },
+    {
+      "page": 7,
+      "file": "07.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:11:00"
+    },
+    {
+      "page": 8,
+      "file": "08.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:12:40"
+    }
+  ]
+}

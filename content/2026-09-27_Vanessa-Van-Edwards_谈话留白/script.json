@@ -1,0 +1,145 @@
+{
+  "work_id": "LT030",
+  "person": "瓦妮莎·范·爱德华兹 Vanessa Van Edwards",
+  "title": "会说话的人，都懂得留白",
+  "source_url": "https://www.youtube.com/watch?v=q2cg1gEYWJQ",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "使用同源公开镜像的最高可用720P视频流直接截取8张不同神态的人物画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认拥有该公开视频的下载、翻译、处理和发布权限",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["会说话的人", "都懂得", "留白"],
+    "source": "frames/01.png"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "先对别人感兴趣",
+      "frame": "frames/01.png",
+      "frame_time": "00:07:30",
+      "focus_x": 0.48,
+      "source_time": "00:59:39-01:00:43",
+      "lines": ["会说话的人", "不急着让自己显得有趣", "他们会先对别人感兴趣", "让对方感到放松", "也让对方有机会表达"],
+      "line_sources": [
+        {"source_time": "00:59:39-01:00:05", "original_excerpt": "being interested, not interesting"},
+        {"source_time": "00:59:39-01:00:05", "original_excerpt": "being interested, not interesting"},
+        {"source_time": "00:59:39-01:00:05", "original_excerpt": "being interested, not interesting"},
+        {"source_time": "01:00:05-01:00:43", "original_excerpt": "putting this person at ease"},
+        {"source_time": "00:58:36-00:59:39", "original_excerpt": "the whole point of this is turn-taking"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "对话也有节奏",
+      "frame": "frames/02.png",
+      "frame_time": "00:03:00",
+      "focus_x": 0.48,
+      "source_time": "00:42:54-00:43:56",
+      "lines": ["对话也有它的节奏", "一次发言十五到三十秒", "四十五秒也还可以", "但再继续下去", "谈话就开始变成独白"],
+      "line_sources": [
+        {"source_time": "00:41:54-00:42:54", "original_excerpt": "the mechanics of conversation"},
+        {"source_time": "00:42:54-00:43:12", "original_excerpt": "15 to 30 seconds"},
+        {"source_time": "00:42:54-00:43:20", "original_excerpt": "45 seconds is okay"},
+        {"source_time": "00:42:54-00:43:20", "original_excerpt": "but we start to turn"},
+        {"source_time": "00:42:54-00:43:20", "original_excerpt": "to a monologue"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "语音不是来回对话",
+      "frame": "frames/03.png",
+      "frame_time": "00:04:00",
+      "focus_x": 0.48,
+      "source_time": "00:43:56-00:44:59",
+      "lines": ["我们越来越习惯异步交流", "一条九分钟的语音", "并不是真正的对话", "它更像一段独白", "因为里面没有来回交替"],
+      "line_sources": [
+        {"source_time": "00:43:56-00:44:59", "original_excerpt": "more and more asynchronous conversations"},
+        {"source_time": "00:43:56-00:44:59", "original_excerpt": "nine minute voice notes"},
+        {"source_time": "00:43:56-00:44:59", "original_excerpt": "a voice note is not a conversation"},
+        {"source_time": "00:43:56-00:44:59", "original_excerpt": "a voice note is a monologue"},
+        {"source_time": "00:43:56-00:44:59", "original_excerpt": "there's no back and forth"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "看见对方想接话",
+      "frame": "frames/04.png",
+      "frame_time": "00:04:30",
+      "focus_x": 0.48,
+      "source_time": "00:47:06-00:49:07",
+      "lines": ["当对方张开嘴", "他可能正想说点什么", "当他开始移开目光", "或不再给出惊叹的回应", "就该留意他的信号"],
+      "line_sources": [
+        {"source_time": "00:47:06-00:47:35", "original_excerpt": "if someone is opening their mouth"},
+        {"source_time": "00:47:06-00:47:35", "original_excerpt": "it means they want to turn"},
+        {"source_time": "00:49:07-00:49:35", "original_excerpt": "they are either looking away"},
+        {"source_time": "00:49:07-00:49:35", "original_excerpt": "there's no wow"},
+        {"source_time": "00:49:07-00:49:35", "original_excerpt": "those are cues"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "谈话是持续反馈",
+      "frame": "frames/05.png",
+      "frame_time": "00:05:00",
+      "focus_x": 0.48,
+      "source_time": "00:48:06-00:49:07",
+      "lines": ["谈话不是一只扩音器", "只顾把自己的声音送出去", "它是一场持续的反馈", "对方的眉毛、目光和反应", "都值得你认真观察"],
+      "line_sources": [
+        {"source_time": "00:48:06-00:48:30", "original_excerpt": "not as a megaphone"},
+        {"source_time": "00:48:06-00:48:30", "original_excerpt": "you're shouting through"},
+        {"source_time": "00:48:06-00:48:30", "original_excerpt": "continual feedback"},
+        {"source_time": "00:48:06-00:49:07", "original_excerpt": "looking for your eyebrow raises"},
+        {"source_time": "00:48:06-00:49:07", "original_excerpt": "taking cues from me"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "怕的其实是冷场",
+      "frame": "frames/06.png",
+      "frame_time": "00:06:00",
+      "focus_x": 0.48,
+      "source_time": "00:56:27-00:58:36",
+      "lines": ["有些人明知自己说得太多", "却还是停不下来", "他们最怕的不是被拒绝", "而是突然冷场", "以及下一句无话可说"],
+      "line_sources": [
+        {"source_time": "00:56:27-00:57:32", "original_excerpt": "they know they talk too much"},
+        {"source_time": "00:56:27-00:57:32", "original_excerpt": "they can't stop"},
+        {"source_time": "00:57:32-00:58:00", "original_excerpt": "not being rejected"},
+        {"source_time": "00:56:27-00:57:32", "original_excerpt": "so scared of the awkward silence"},
+        {"source_time": "00:57:32-00:58:00", "original_excerpt": "running out of things to say"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "用好奇代替填满",
+      "frame": "frames/07.png",
+      "frame_time": "00:06:30",
+      "focus_x": 0.48,
+      "source_time": "00:57:32-00:58:36",
+      "lines": ["解决它的办法是好奇", "不只是追问一句再说说", "而是继续问发生了什么", "事情为什么会这样", "又是怎样、何时发生的"],
+      "line_sources": [
+        {"source_time": "00:57:32-00:58:36", "original_excerpt": "the way that they fix it is curiosity"},
+        {"source_time": "00:57:32-00:58:36", "original_excerpt": "not just the follow-up tell me more"},
+        {"source_time": "00:57:32-00:58:36", "original_excerpt": "the what"},
+        {"source_time": "00:57:32-00:58:36", "original_excerpt": "the why"},
+        {"source_time": "00:57:32-00:58:36", "original_excerpt": "the how, the why, the when"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "多问一点，少说一点",
+      "frame": "frames/08.png",
+      "frame_time": "00:07:00",
+      "focus_x": 0.48,
+      "source_time": "00:58:36-01:00:43; 01:12:12-01:12:40",
+      "lines": ["别总想着怎样显得聪明", "怎样显得风趣", "怎样让别人喜欢你", "试着多问一点、少说一点", "把表达的位置也留给对方"],
+      "line_sources": [
+        {"source_time": "00:59:39-01:00:43", "original_excerpt": "How can I be impressive?"},
+        {"source_time": "00:59:39-01:00:43", "original_excerpt": "How can I be smart and funny?"},
+        {"source_time": "00:59:39-01:00:43", "original_excerpt": "How can I get them to like me?"},
+        {"source_time": "01:12:12-01:12:40", "original_excerpt": "asking more, talking less"},
+        {"source_time": "00:58:36-00:59:39", "original_excerpt": "the whole point of this is turn-taking"}
+      ]
+    }
+  ]
+}
