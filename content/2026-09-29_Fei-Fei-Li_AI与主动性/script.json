@@ -1,0 +1,145 @@
+{
+  "work_id": "LT033",
+  "person": "李飞飞 Fei-Fei Li",
+  "title": "AI越强，越不能等别人推着你走",
+  "source_url": "https://www.youtube.com/watch?v=subu-xHrp1w",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "从原公开视频最高可用1080P视频流直接提取8张不同神态画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认拥有该公开视频的下载、翻译、处理和发布权限",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["AI越强", "越不能等别人", "推着你走"],
+    "source": "frames/07.png"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "主动性才是关键",
+      "frame": "frames/01.png",
+      "frame_time": "00:01:52",
+      "focus_x": 0.50,
+      "source_time": "00:00:04-00:00:16",
+      "lines": ["所谓创业精神", "在很大程度上", "就是主动性的同义词", "面对认知能力如此强大的技术", "主动性才是关键"],
+      "line_sources": [
+        {"source_time": "00:00:04-00:00:10", "original_excerpt": "the word entrepreneurial is very much a synonym to agency"},
+        {"source_time": "00:00:04-00:00:10", "original_excerpt": "very much a synonym"},
+        {"source_time": "00:00:04-00:00:10", "original_excerpt": "a synonym to agency"},
+        {"source_time": "00:00:09-00:00:16", "original_excerpt": "in the face of a technology that is so cognitively advanced"},
+        {"source_time": "00:00:09-00:00:16", "original_excerpt": "Agency is the key"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "讨论走向两个极端",
+      "frame": "frames/02.png",
+      "frame_time": "00:29:01",
+      "focus_x": 0.50,
+      "source_time": "00:06:20-00:07:05",
+      "lines": ["现实远比口号复杂", "但我担心关于AI的公共讨论", "正在走向两个极端", "一个把它描绘成乌托邦", "另一个说它会夺走所有工作"],
+      "line_sources": [
+        {"source_time": "00:06:20-00:06:32", "original_excerpt": "bringing the complexity of reality"},
+        {"source_time": "00:06:27-00:06:36", "original_excerpt": "the public discourse of AI is so polarized"},
+        {"source_time": "00:06:32-00:07:05", "original_excerpt": "either total utopia ... or ... displace all jobs"},
+        {"source_time": "00:06:42-00:06:52", "original_excerpt": "either total utopia ... save the world"},
+        {"source_time": "00:06:54-00:07:05", "original_excerpt": "It's going to just displace all jobs"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "AI首先是一种工具",
+      "frame": "frames/03.png",
+      "frame_time": "00:07:16",
+      "focus_x": 0.50,
+      "source_time": "00:07:05-00:07:24",
+      "lines": ["这两个极端都很危险", "AI归根结底是一项技术", "也就是说，它是一种工具", "一种非常强大的工具", "人类可以用它把事情做得更好"],
+      "line_sources": [
+        {"source_time": "00:07:02-00:07:08", "original_excerpt": "these two extreme is very dangerous"},
+        {"source_time": "00:07:08-00:07:14", "original_excerpt": "it's a technology"},
+        {"source_time": "00:07:08-00:07:16", "original_excerpt": "that means it's a tool"},
+        {"source_time": "00:07:11-00:07:18", "original_excerpt": "It's a very powerful tool"},
+        {"source_time": "00:07:16-00:07:22", "original_excerpt": "humans can wield to help make things better"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "找回被忽略的中间地带",
+      "frame": "frames/04.png",
+      "frame_time": "00:07:44",
+      "focus_x": 0.50,
+      "source_time": "00:07:22-00:07:58",
+      "lines": ["最重要的讨论", "恰恰是被忽略的中间地带", "理解这个工具到底是什么", "怎样用它创造益处", "又怎样避开它的陷阱"],
+      "line_sources": [
+        {"source_time": "00:07:37-00:07:44", "original_excerpt": "the most important discourse"},
+        {"source_time": "00:07:37-00:07:46", "original_excerpt": "the discourse of the nuanced middle"},
+        {"source_time": "00:07:47-00:07:52", "original_excerpt": "what this tool is"},
+        {"source_time": "00:07:47-00:07:53", "original_excerpt": "how can we use it for good"},
+        {"source_time": "00:07:51-00:07:58", "original_excerpt": "how should we avoid the pitfalls"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "主动性需要训练",
+      "frame": "frames/05.png",
+      "frame_time": "00:44:30",
+      "focus_x": 0.50,
+      "source_time": "00:43:54-00:45:15",
+      "lines": ["怎样训练这种能力", "对我、孩子和学生来说", "首先是鼓励", "也包括一句很简单的话", "不要偷懒"],
+      "line_sources": [
+        {"source_time": "00:43:54-00:44:05", "original_excerpt": "How do I personally train that muscle"},
+        {"source_time": "00:43:59-00:44:08", "original_excerpt": "for me, my kids, my students"},
+        {"source_time": "00:44:08-00:44:14", "original_excerpt": "It's encouragement"},
+        {"source_time": "00:44:14-00:44:18", "original_excerpt": "as simple as"},
+        {"source_time": "00:44:15-00:44:18", "original_excerpt": "don't be lazy"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "你的声音同样重要",
+      "frame": "frames/06.png",
+      "frame_time": "00:45:40",
+      "focus_x": 0.50,
+      "source_time": "00:45:16-00:46:15",
+      "lines": ["声音太多确实可能令人不安", "也可能带来误导", "但它同样是一种机会", "这个世纪有许多工具", "能让你的声音被听见"],
+      "line_sources": [
+        {"source_time": "00:45:16-00:45:23", "original_excerpt": "that can be daunting"},
+        {"source_time": "00:45:21-00:45:28", "original_excerpt": "if used misguided"},
+        {"source_time": "00:45:28-00:45:34", "original_excerpt": "that can be also opportunity"},
+        {"source_time": "00:45:58-00:46:08", "original_excerpt": "a century of a lot of tools that can give you agency"},
+        {"source_time": "00:46:05-00:46:15", "original_excerpt": "your voice matter more than anybody else's voice"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "别只剩下焦虑",
+      "frame": "frames/07.png",
+      "frame_time": "00:47:23",
+      "focus_x": 0.50,
+      "source_time": "00:46:41-00:47:45",
+      "lines": ["很多已经工作的成年人", "面对AI只剩下焦虑", "不知道该怎样靠近它", "如果你也有这种感觉", "先找一个熟悉AI的年轻人"],
+      "line_sources": [
+        {"source_time": "00:46:41-00:46:59", "original_excerpt": "the generation right now who you're already professionals"},
+        {"source_time": "00:47:01-00:47:10", "original_excerpt": "other than anxiety"},
+        {"source_time": "00:47:03-00:47:12", "original_excerpt": "you don't really know how you can get to AI"},
+        {"source_time": "00:47:11-00:47:18", "original_excerpt": "people who feel that way"},
+        {"source_time": "00:47:20-00:47:38", "original_excerpt": "find a kid ... they are likely to be younger than 25"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "先了解，再形成判断",
+      "frame": "frames/08.png",
+      "frame_time": "00:48:25",
+      "focus_x": 0.50,
+      "source_time": "00:47:32-00:48:50",
+      "lines": ["好奇地问问他怎样使用AI", "别先担心自己不懂技术", "让你信任的人带你走一小段", "当你真正知道问题在哪里", "你的声音才会被更好地听见"],
+      "line_sources": [
+        {"source_time": "00:47:32-00:47:45", "original_excerpt": "be curious. Ask them to just show you how they use AI"},
+        {"source_time": "00:48:09-00:48:18", "original_excerpt": "not worry about that I never learned computer science"},
+        {"source_time": "00:48:19-00:48:29", "original_excerpt": "the young person in your life who you already trust ... hold your hand"},
+        {"source_time": "00:48:38-00:48:48", "original_excerpt": "by knowing it, by knowing where these issues are"},
+        {"source_time": "00:48:45-00:48:50", "original_excerpt": "your voice can be heard better"}
+      ]
+    }
+  ]
+}

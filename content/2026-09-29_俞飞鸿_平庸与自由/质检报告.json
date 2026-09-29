@@ -1,0 +1,106 @@
+{
+  "package": "2026-09-29_俞飞鸿_平庸与自由",
+  "page_count": 8,
+  "all_body_fonts_equal": true,
+  "all_dimensions_correct": true,
+  "all_lines_within_limit": true,
+  "all_text_within_canvas": true,
+  "pages": [
+    {
+      "page": 1,
+      "file": "01.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:25:10"
+    },
+    {
+      "page": 2,
+      "file": "02.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:17:31"
+    },
+    {
+      "page": 3,
+      "file": "03.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:11:30"
+    },
+    {
+      "page": 4,
+      "file": "04.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:20:26"
+    },
+    {
+      "page": 5,
+      "file": "05.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:20:48"
+    },
+    {
+      "page": 6,
+      "file": "06.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:21:18"
+    },
+    {
+      "page": 7,
+      "file": "07.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:25:42"
+    },
+    {
+      "page": 8,
+      "file": "08.jpg",
+      "size": [
+        1440,
+        1920
+      ],
+      "line_count": 5,
+      "font_px": 56,
+      "text_overflow": false,
+      "frame_time": "00:31:00"
+    }
+  ]
+}

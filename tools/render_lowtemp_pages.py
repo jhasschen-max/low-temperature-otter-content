@@ -32,6 +32,28 @@ def cover_crop(img: Image.Image, focus_x: float = 0.5) -> Image.Image:
     return img.resize(CANVAS, Image.Resampling.LANCZOS)
 
 
+def crop_to_size(
+    img: Image.Image,
+    size: tuple[int, int],
+    focus_x: float = 0.5,
+    focus_y: float = 0.5,
+) -> Image.Image:
+    target_w, target_h = size
+    target_ratio = target_w / target_h
+    src_ratio = img.width / img.height
+    if src_ratio > target_ratio:
+        crop_w = round(img.height * target_ratio)
+        center_x = round(img.width * focus_x)
+        left = max(0, min(img.width - crop_w, center_x - crop_w // 2))
+        img = img.crop((left, 0, left + crop_w, img.height))
+    else:
+        crop_h = round(img.width / target_ratio)
+        center_y = round(img.height * focus_y)
+        top = max(0, min(img.height - crop_h, center_y - crop_h // 2))
+        img = img.crop((0, top, img.width, top + crop_h))
+    return img.resize(size, Image.Resampling.LANCZOS)
+
+
 def add_gradient(base: Image.Image, top_alpha: int, bottom_alpha: int) -> None:
     layer = Image.new("RGBA", CANVAS, (0, 0, 0, 0))
     px = layer.load()
@@ -121,12 +143,36 @@ def render_package(package_dir: Path, logo_path: Path) -> dict:
 
     for page in spec["pages"]:
         frame = Image.open(package_dir / page["frame"]).convert("RGB")
-        base = cover_crop(frame, page.get("focus_x", 0.5)).convert("RGBA")
-        base = ImageEnhance.Brightness(base).enhance(0.76)
-        base.alpha_composite(Image.new("RGBA", CANVAS, (0, 0, 0, 22)))
-        add_gradient(base, 120, 205)
-        lower_veil = Image.new("RGBA", (CANVAS[0], CANVAS[1] - 1080), (0, 0, 0, 178))
-        base.alpha_composite(lower_veil, (0, 1080))
+        focus_x = page.get("focus_x", 0.5)
+        hero_h = 1344
+        row_h = (CANVAS[1] - hero_h) // 4
+        hero = crop_to_size(frame, (CANVAS[0], hero_h), focus_x, page.get("focus_y", 0.5))
+        hero = ImageEnhance.Brightness(hero).enhance(0.76).convert("RGBA")
+        base = Image.new("RGBA", CANVAS, (8, 8, 8, 255))
+        base.alpha_composite(hero, (0, 0))
+
+        # Repeat a lightly darkened slice of the interview frame behind the
+        # final four lines. The image remains visible; there is no heavy black
+        # subtitle block.
+        band = crop_to_size(
+            frame,
+            (CANVAS[0], row_h),
+            focus_x,
+            page.get("band_focus_y", 0.62),
+        )
+        band = ImageEnhance.Brightness(band).enhance(0.52).convert("RGBA")
+        band.alpha_composite(Image.new("RGBA", band.size, (0, 0, 0, 58)))
+        for row in range(4):
+            base.alpha_composite(band, (0, hero_h + row * row_h))
+
+        add_gradient(base, 120, 115)
+        hero_reading_veil = Image.new("RGBA", (CANVAS[0], 300), (0, 0, 0, 0))
+        veil_px = hero_reading_veil.load()
+        for y in range(300):
+            alpha = round(122 * (y / 299))
+            for x in range(CANVAS[0]):
+                veil_px[x, y] = (0, 0, 0, alpha)
+        base.alpha_composite(hero_reading_veil, (0, hero_h - 300))
         draw = ImageDraw.Draw(base, "RGBA")
 
         page_no = f'{page["page"]:02d} / {len(spec["pages"]):02d}'
@@ -136,21 +182,20 @@ def render_package(package_dir: Path, logo_path: Path) -> dict:
                   stroke_width=3, stroke_fill=(15, 15, 15))
         base.alpha_composite(logo, (1288, 42))
 
-        divider_y = 1115
+        divider_y = 1110
         draw.rounded_rectangle((570, divider_y, 870, divider_y + 7), radius=4, fill=GOLD)
-        start_y = 1195
-        row_step = 128
         overflow = False
         for idx, line in enumerate(page["lines"]):
             bbox = draw.textbbox((0, 0), line, font=body_font, stroke_width=4)
             tw = bbox[2] - bbox[0]
             if tw > 1280:
                 overflow = True
-            band_w = min(1320, tw + 118)
-            y = start_y + idx * row_step
-            draw.rounded_rectangle(((CANVAS[0] - band_w) // 2, y - 18,
-                                    (CANVAS[0] + band_w) // 2, y + 84),
-                                   radius=9, fill=(0, 0, 0, 142))
+            if idx == 0:
+                y = 1170
+            else:
+                row_top = hero_h + (idx - 1) * row_h
+                text_h = bbox[3] - bbox[1]
+                y = row_top + (row_h - text_h) // 2 - bbox[1]
             draw_centered(draw, y, line, body_font, WHITE, stroke=4)
 
         output = out_dir / f'{page["page"]:02d}.jpg'

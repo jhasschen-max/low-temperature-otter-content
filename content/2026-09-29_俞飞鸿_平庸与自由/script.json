@@ -1,0 +1,145 @@
+{
+  "work_id": "LT032",
+  "person": "俞飞鸿",
+  "title": "俞飞鸿：我情愿活得像一个凡人",
+  "source_url": "https://www.youtube.com/watch?v=AgQVNFicFrg",
+  "subtitle_mode": "脚本字幕模式",
+  "translation_policy": "来源锁定的中文凝练",
+  "frame_policy": "从原公开视频最高可用1080P视频流直接提取8张不同神态画面；画面时间与字幕来源时间分开记录",
+  "permission": "用户已确认拥有该公开视频的下载、处理和发布权限",
+  "cover": {
+    "file": "封面.jpg",
+    "text": ["我情愿", "活得像一个", "凡人"],
+    "source": "frames/05.png"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "section_title": "我情愿活得像一个凡人",
+      "frame": "frames/01.png",
+      "frame_time": "00:25:10",
+      "focus_x": 0.50,
+      "source_time": "00:26:05-00:26:42",
+      "lines": ["作为一个普通人", "既然还要在这个世界上生活", "我不想把日子过得太哲学", "我情愿活得像一个凡人", "让自己过得乐和一点"],
+      "line_sources": [
+        {"source_time": "00:26:05-00:26:10", "original_excerpt": "我觉得作为肉身或者肉体，一个普通人要生存下去"},
+        {"source_time": "00:26:14-00:26:18", "original_excerpt": "我身体还得存在在这个世界上"},
+        {"source_time": "00:26:11-00:26:14", "original_excerpt": "我不想过得那么哲学"},
+        {"source_time": "00:26:18-00:26:22", "original_excerpt": "那我情愿就活得像一个凡人"},
+        {"source_time": "00:26:38-00:26:42", "original_excerpt": "那我就当自己活得乐和一点吧"}
+      ]
+    },
+    {
+      "page": 2,
+      "section_title": "精神的支点不止一种",
+      "frame": "frames/02.png",
+      "frame_time": "00:17:31",
+      "focus_x": 0.50,
+      "source_time": "00:17:08-00:17:18",
+      "lines": ["很多精神上的汲取", "并不只来自某一个人", "它可以来自电影", "来自阅读、思考和经历", "也来自你真正去生活"],
+      "line_sources": [
+        {"source_time": "00:17:08-00:17:13", "original_excerpt": "其实很多是这种精神上的汲取"},
+        {"source_time": "00:17:08-00:17:13", "original_excerpt": "其实很多是这种精神上的汲取"},
+        {"source_time": "00:17:13-00:17:17", "original_excerpt": "电影、阅读、思考、经历"},
+        {"source_time": "00:17:13-00:17:17", "original_excerpt": "电影、阅读、思考、经历"},
+        {"source_time": "00:17:17-00:17:18", "original_excerpt": "就是去生活"}
+      ]
+    },
+    {
+      "page": 3,
+      "section_title": "别把全部重量交给别人",
+      "frame": "frames/03.png",
+      "frame_time": "00:11:30",
+      "focus_x": 0.50,
+      "source_time": "00:17:27-00:17:39",
+      "lines": ["我不喜欢", "把所有情感", "和全部责任", "都放在另一个人身上", "你会很累，对方也会很累"],
+      "line_sources": [
+        {"source_time": "00:17:27-00:17:29", "original_excerpt": "不喜欢"},
+        {"source_time": "00:17:29-00:17:34", "original_excerpt": "把情感啊、责任啊都放在另一个人身上"},
+        {"source_time": "00:17:29-00:17:34", "original_excerpt": "把情感啊、责任啊都放在另一个人身上"},
+        {"source_time": "00:17:29-00:17:35", "original_excerpt": "把情感啊、责任啊都放在另一个人身上"},
+        {"source_time": "00:17:35-00:17:39", "original_excerpt": "你自己会很累，人家也会很累"}
+      ]
+    },
+    {
+      "page": 4,
+      "section_title": "不把自己固定在框架里",
+      "frame": "frames/04.png",
+      "frame_time": "00:20:26",
+      "focus_x": 0.50,
+      "source_time": "00:20:22-00:20:32",
+      "lines": ["我做演员", "从不想给自己贴上标签", "也不想因为别人的喜欢", "就把自己固定", "在同一个框架里"],
+      "line_sources": [
+        {"source_time": "00:20:22-00:20:24", "original_excerpt": "我做演员"},
+        {"source_time": "00:20:24-00:20:27", "original_excerpt": "我永远不想把自己贴标签"},
+        {"source_time": "00:20:29-00:20:32", "original_excerpt": "就因为别人喜欢"},
+        {"source_time": "00:20:27-00:20:29", "original_excerpt": "或者固定在一个框架里头"},
+        {"source_time": "00:20:27-00:20:29", "original_excerpt": "固定在一个框架里头"}
+      ]
+    },
+    {
+      "page": 5,
+      "section_title": "生活不必总被仰视",
+      "frame": "frames/05.png",
+      "frame_time": "00:20:48",
+      "focus_x": 0.50,
+      "source_time": "00:20:43-00:21:08",
+      "lines": ["我不会站在一个高度", "去俯视生活", "有些表达很生活化", "也很有趣", "我愿意做不同的尝试"],
+      "line_sources": [
+        {"source_time": "00:20:46-00:20:49", "original_excerpt": "我不站在一个高度来看"},
+        {"source_time": "00:20:46-00:20:49", "original_excerpt": "我不站在一个高度来看"},
+        {"source_time": "00:20:43-00:20:50", "original_excerpt": "我觉得其实挺生活的"},
+        {"source_time": "00:20:49-00:20:52", "original_excerpt": "然后挺有趣的"},
+        {"source_time": "00:21:01-00:21:08", "original_excerpt": "我一定会做很多尝试"}
+      ]
+    },
+    {
+      "page": 6,
+      "section_title": "自由不是假装没有限制",
+      "frame": "frames/06.png",
+      "frame_time": "00:21:18",
+      "focus_x": 0.50,
+      "source_time": "00:21:13-00:21:31",
+      "lines": ["没有哪个演员是万能的", "你的形象", "你的成长背景", "都会带来一些限制", "能做的是在限制里尽可能拓宽"],
+      "line_sources": [
+        {"source_time": "00:21:13-00:21:18", "original_excerpt": "我不觉得演员有演员是万能的，什么角色都能演"},
+        {"source_time": "00:21:18-00:21:22", "original_excerpt": "一定是你自身形象"},
+        {"source_time": "00:21:20-00:21:24", "original_excerpt": "成长背景"},
+        {"source_time": "00:21:22-00:21:26", "original_excerpt": "你身上带的这个烙印是有一定限制"},
+        {"source_time": "00:21:26-00:21:30", "original_excerpt": "你是在自己的限制范围里面尽可能地拓宽"}
+      ]
+    },
+    {
+      "page": 7,
+      "section_title": "平衡本来就是过程",
+      "frame": "frames/07.png",
+      "frame_time": "00:25:42",
+      "focus_x": 0.50,
+      "source_time": "00:25:03-00:25:45",
+      "lines": ["所谓平衡", "本来就是一个过程", "到了某个年纪才发现", "生命本身没有现成的意义", "所以人才会去寻找意义"],
+      "line_sources": [
+        {"source_time": "00:25:03-00:25:06", "original_excerpt": "平衡是个过程"},
+        {"source_time": "00:25:03-00:25:06", "original_excerpt": "平衡是个过程"},
+        {"source_time": "00:25:16-00:25:20", "original_excerpt": "我因为到了年纪，发现"},
+        {"source_time": "00:25:20-00:25:24", "original_excerpt": "其实生命本身是件毫无意义的事"},
+        {"source_time": "00:25:36-00:25:45", "original_excerpt": "所以我才会去力图找一些有意义的事情做，或者让你自己觉得有意义"}
+      ]
+    },
+    {
+      "page": 8,
+      "section_title": "意义要由自己找到",
+      "frame": "frames/08.png",
+      "frame_time": "00:31:00",
+      "focus_x": 0.50,
+      "source_time": "00:25:31-00:26:02",
+      "lines": ["正因为它没有现成答案", "我才会尽力寻找", "一些有意义的事情去做", "或者至少让自己觉得", "这一段生活是有意义的"],
+      "line_sources": [
+        {"source_time": "00:25:31-00:25:36", "original_excerpt": "其实就是因为它本身无意义"},
+        {"source_time": "00:25:36-00:25:41", "original_excerpt": "所以我才会去力图找一些有意义的事情做"},
+        {"source_time": "00:25:36-00:25:41", "original_excerpt": "找一些有意义的事情做"},
+        {"source_time": "00:25:41-00:25:46", "original_excerpt": "或者让你自己觉得有意义"},
+        {"source_time": "00:25:41-00:25:46", "original_excerpt": "让你自己觉得有意义"}
+      ]
+    }
+  ]
+}

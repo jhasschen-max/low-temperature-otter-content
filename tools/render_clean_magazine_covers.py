@@ -90,6 +90,18 @@ def main() -> None:
     args = parser.parse_args()
     jobs = [
         (
+            ROOT / "content" / "2026-09-29_俞飞鸿_平庸与自由" / "frames" / "05.png",
+            ROOT / "content" / "2026-09-29_俞飞鸿_平庸与自由" / "封面.jpg",
+            [("我情愿", 116, IVORY), ("活得像一个", 126, IVORY), ("凡人", 140, GOLD)],
+            0.50,
+        ),
+        (
+            ROOT / "content" / "2026-09-29_Fei-Fei-Li_AI与主动性" / "frames" / "07.png",
+            ROOT / "content" / "2026-09-29_Fei-Fei-Li_AI与主动性" / "封面.jpg",
+            [("AI越强", 116, IVORY), ("越不能等别人", 112, IVORY), ("推着你走", 132, GOLD)],
+            0.38,
+        ),
+        (
             ROOT / "content" / "2026-09-22_JK-Rowling_失败与重建" / "frames" / "02.png",
             ROOT / "content" / "2026-09-22_JK-Rowling_失败与重建" / "封面.jpg",
             [("失败，", 116, IVORY), ("会帮你", 126, IVORY), ("看清自己", 132, GOLD)],
